@@ -1,25 +1,161 @@
 {
-    "catalog": [
+  "catalog": [
+    {
+      "title": "Fonds topographiques IGN / OSM",
+      "sublayers": [
         {
-            "title": "Bauzonen",
-            "resource": "wms:http://wms.geo.admin.ch#ch.are.bauzonen"
+          "title": "Scan 1000 IGN",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/ref/ows#IGN_SCAN1000_TIF_L93"
         },
         {
-            "title": "Landeskarten",
-            "sublayers": [
-                {
-                    "title": "Landeskarte 1:1 Million | LK1000",
-                    "resource": "wms:http://wms.geo.admin.ch#ch.swisstopo.pixelkarte-farbe-pk1000.noscale"
-                },
-                {
-                    "title": "Landeskarte 1:100`000 | LK100",
-                    "resource": "wms:http://wms.geo.admin.ch#ch.swisstopo.pixelkarte-farbe-pk100.noscale"
-                },
-                {
-                    "title": "Landeskarte 1:25`000 | LK25",
-                    "resource": "wms:http://wms.geo.admin.ch#ch.swisstopo.pixelkarte-farbe-pk25.noscale"
-                }
-            ]
+          "title": "Plan IGN v2",
+          "resource": "wms:https://wxs.ign.fr/choisirgeoportail/geoportail/r/wms?#GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Standard",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#osm-default"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Google",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#osm_google"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Mapbox",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#bright"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Relief",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#relief"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Naturaliste",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#naturaliste"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Désaturé",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#faded"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Noir et blanc",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#grey"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Sans toponymes",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#pure"
+        },
+        {
+          "title": "OpenStreetMap - OSM style Toponymes seuls",
+          "resource": "wms:https://osm.datagrandest.fr/mapcache#overlay"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Occupation du Sol",
+      "sublayers": []
+    },
+    {
+      "title": "Cadastre",
+      "sublayers": [
+        {
+          "title": "Cadastre - Communes PCI (à partir du 1:300.000)",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/region-grand-est/ows#commune_pci"
+        },
+        {
+          "title": "Cadastre - Sections PCI(visible du 1:4.000 au 1:30.000)",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/region-grand-est/ows#section"
+        },
+        {
+          "title": "Cadastre - Parcelle PCI (visible <1:10.000)",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/region-grand-est/ows#parcelle"
+        },
+        {
+          "title": "Cadastre - Bâti PCI (visible <1:10.000)",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/region-grand-est/ows#batiment"
+        }
+      ]
+    },
+    {
+      "title": "Géoportail de l'urbanisme",
+      "sublayers": [
+        {
+          "title": "Documents d'urbanisme",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/gpu/ows#GPU_documents_emprise"
+        },
+        {
+          "title": "Zonages des documents d'urbanisme",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/gpu/ows#GPU_zonage_emprise"
+        },
+        {
+          "title": "Zonages des documents d'urbanisme et communes soumises au RNU",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/gpu/ows#GPU_zonage_rnu_emprise"
+        }
+      ]
+    },
+    {
+      "title": "Vues aériennes",
+      "sublayers": []
+    },
+    {
+      "title": "Relief",
+      "sublayers": [
+        {
+          "title": "Courbes de niveaux 10m - Grand Est - WMS",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/wms#IGN_COURBES_NIVEAU_10M"
+        },
+        {
+          "title": "Inventaire des données Altimétriques Grand Est",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/ows#GGE_INVENTAIRE_ALTI"
+        }
+      ]
+    },
+    {
+      "title": "Limites administratives",
+      "sublayers": []
+    },
+    {
+      "title": "Energies renouvelables",
+      "sublayers": []
+    },
+    {
+      "title": "Nature",
+      "sublayers": []
+    },
+    {
+      "title": "Sites et paysages",
+      "sublayers": []
+    },
+    {
+      "title": "Aménagement",
+      "sublayers": []
+    },
+    {
+      "title": "Impacts et risques antropiques",
+      "sublayers": []
+    },
+    {
+      "title": "Forêts et Agriculture",
+      "sublayers": [
+        {
+          "title": "DRAAF - Petite Région Agricole",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#R44_PRA2017_2021"
+        },
+        {
+          "title": "DRAAF - Registre Parcellaire Graphique 2015",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#r44_rpg_2015"
+        },
+        {
+          "title": "DRAAF - Registre Parcellaire Graphique 2016",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#r44_rpg_2016"
+        },
+        {
+          "title": "DRAAF - Registre Parcellaire Graphique 2018",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#r44_rpg_2018"
+        },
+        {
+          "title": "DRAAF - Registre Parcellaire Graphique 2019",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#r44_rpg_2019"
+        }
+      ]
+    }
+  ]
 }
