@@ -53,163 +53,6 @@
       "title": "Occupation du Sol",
       "sublayers": [
         {
-          "title": "OCSGE2-2010",
-          "sublayers": [
-            {
-              "title": "Occupation du sol 2010 dans le Grand Est"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 08 Ardennes"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 10 Aube"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 51 Marne"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 52 Haute-Marne"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 54 Meurthe-et-Moselle"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 55 Meuse"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 57 Moselle"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 67 Bas-Rhin"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 68 Haut-Rhin"
-            },
-            {
-              "title": "Occupation du sol 2010 - Département 88 Vosges"
-            }
-          ]
-        },
-        {
-          "title": "OCSGE2-2019",
-          "sublayers": [
-            {
-              "title": "Occupation du sol 2019 dans le Grand Est"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 08 Ardennes"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 10 Aube"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 51 Marne"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 52 Haute-Marne"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 54 Meurthe-et-Moselle"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 55 Meuse"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 57 Moselle"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 67 Bas-Rhin"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 68 Haut-Rhin"
-            },
-            {
-              "title": "Occupation du sol 2019 - Département 88 Vosges"
-            }
-          ]
-        },
-        {
-          "title": "BD-EA 2019",
-          "sublayers": [
-            {
-              "title": "BD-EA 2019 - Département 08 Ardennes"
-            },
-            {
-              "title": "BD-EA 2019 - Département 10 Aube"
-            },
-            {
-              "title": "BD-EA 2019 - Département 51 Marne"
-            },
-            {
-              "title": "BD-EA 2019 - Département 52 Haute-Marne"
-            },
-            {
-              "title": "BD-EA 2019 - Département 54 Meurthe-et-Moselle"
-            },
-            {
-              "title": "BD-EA 2019 - Département 55 Meuse"
-            },
-            {
-              "title": "BD-EA 2019 - Département 57 Moselle"
-            },
-            {
-              "title": "BD-EA 2019 - Département 67 Bas-Rhin"
-            },
-            {
-              "title": "BD-EA 2019 - Département 68 Haut-Rhin"
-            },
-            {
-              "title": "BD-EA 2019 - Département 88 Vosges"
-            }
-          ]
-        },
-        {
-          "title": "BD-EA+ 2019",
-          "sublayers": [
-            {
-              "title": "BD-EA+ 2019 - Département 08 Ardennes"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 10 Aube"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 51 Marne"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 52 Haute-Marne"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 54 Meurthe-et-Moselle"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 55 Meuse"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 57 Moselle"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 67 Bas-Rhin"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 68 Haut-Rhin"
-            },
-            {
-              "title": "BD-EA+ 2019 - Département 88 Vosges"
-            }
-          ]
-        },
-        {
-          "title": "Imperméabilisation",
-          "sublayers": [
-            {
-              "title": "Imperméabilisation 2010 - Grand Est"
-            },
-            {
-              "title": "Imperméabilisation 2019 - Grand Est"
-            }
-          ]
-        },
-        {
           "title": "Corine Land Cover",
           "sublayers": [
             {
@@ -299,15 +142,6 @@
       "title": "Vues aériennes",
       "sublayers": [
         {
-          "title": "Zones Interdites à la Prise de Vue Aérienne"
-        },
-        {
-          "title": "Vue aérienne RVB actuelle complète du Grand Est"
-        },
-        {
-          "title": "Vue aérienne IRC actuelle complète du Grand Est"
-        },
-        {
           "title": "Vues aériennes 2021-2022 - RVB",
           "sublayers": [
             {
@@ -377,9 +211,6 @@
           "title": "Vues aériennes 2018-2019 - RVB",
           "sublayers": [
             {
-              "title": "Vue aérienne RVB 2018-2019 complète du Grand Est"
-            },
-            {
               "title": "Vue aérienne des Ardennes 08 - 2019",
               "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/ows#GGE_ORTHORVB_2019_08_TIF_L93"
             },
@@ -424,9 +255,6 @@
         {
           "title": "Vues aériennes 2018-2019 - IRC",
           "sublayers": [
-            {
-              "title": "Vue aérienne IRC 2018-2019 complète du Grand Est"
-            },
             {
               "title": "Vue aérienne IRC des Ardennes 08 - 2019",
               "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/ows#GGE_ORTHOIRC_2019_08_TIF_L93"
@@ -473,9 +301,6 @@
           "title": "Vues aériennes 2014-2016 - RVB",
           "sublayers": [
             {
-              "title": "Vue aérienne RVB 2014-2016 complète du Grand Est"
-            },
-            {
               "title": "Vue aérienne RVB des Ardennes 08 - 2016",
               "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/ows#GGE_ORTHORVB_2016_08_TIF_L93"
             },
@@ -516,9 +341,6 @@
         {
           "title": "Vues aériennes 2007-2010 - RVB",
           "sublayers": [
-            {
-              "title": "Vue aérienne RVB 2007-2010 complète du Grand Est"
-            },
             {
               "title": "Vue aérienne RVB des Ardennes 08 - 2010",
               "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/ows#GGE_ORTHORVB_2010_08_TIF_L93"
@@ -567,17 +389,8 @@
       "title": "Relief",
       "sublayers": [
         {
-          "title": "Relief Europe couleurs"
-        },
-        {
-          "title": "Relief Europe niveaux de gris"
-        },
-        {
           "title": "Courbes de niveaux 10m - Grand Est - WMS",
           "resource": "wms:https://www.datagrandest.fr/geoserver/geograndest/wms#IGN_COURBES_NIVEAU_10M"
-        },
-        {
-          "title": "Courbes de niveaux 10m - Grand Est - WFS"
         },
         {
           "title": "Inventaire des données Altimétriques Grand Est",
@@ -586,199 +399,22 @@
       ]
     },
     {
-      "title": "Limites administratives",
-      "sublayers": [
-        {
-          "title": "Région Grand Est"
-        },
-        {
-          "title": "Departements"
-        },
-        {
-          "title": "EPCI"
-        },
-        {
-          "title": "Communes"
-        },
-        {
-          "title": "Périmètre des Pays et PETR"
-        }
-      ]
-    },
-    {
-      "title": "Energies renouvelables",
-      "sublayers": [
-        {
-          "title": "Eoliennes instruites"
-        },
-        {
-          "title": "Parcs éoliens"
-        }
-      ]
-    },
-    {
       "title": "Nature",
       "sublayers": [
         {
-          "title": "Protections réglementaires",
-          "sublayers": [
-            {
-              "title": "Aire de Protection de Biotope"
-            },
-            {
-              "title": "Réserves Naturelles Nationales"
-            },
-            {
-              "title": "Réserves Naturelles Régionales"
-            },
-            {
-              "title": "Réserves biologiques"
-            },
-            {
-              "title": "Réserves de chasse et de faune sauvage"
-            },
-            {
-              "title": "Réserves nationales de chasse et de faune sauvage"
-            },
-            {
-              "title": "Aire de Protection des Habitats Naturels en (APHN)"
-            },
-            {
-              "title": "Forêt de protection"
-            }
-          ]
-        },
-        {
           "title": "Gestions contractuelles",
           "sublayers": [
-            {
-              "title": "Natura 2000 - directive Habitat (ZSC)"
-            },
-            {
-              "title": "Natura 2000 - directive Oiseaux (ZPS)"
-            },
-            {
-              "title": "Parcs Naturels Régionaux (PNR)"
-            },
             {
               "title": "Parc National de Forêts Champagne et Bourgogne",
               "resource": "wms:https://ws.carmencarto.fr/WMS/119/fxx_inpn?#Parcs_nationaux"
             }
           ]
-        },
-        {
-          "title": "Engagements internationaux",
-          "sublayers": [
-            {
-              "title": "Réserves de Biosphère"
-            },
-            {
-              "title": "Zone humide d'importance internationale (convention de Ramsar)"
-            },
-            {
-              "title": "RBT Vosges du Nord-Pfälzerwald"
-            }
-          ]
-        },
-        {
-          "title": "Inventaires patrimoniaux",
-          "sublayers": [
-            {
-              "title": "ZNIEFF de type 1"
-            },
-            {
-              "title": "ZNIEFF de type 2"
-            }
-          ]
-        },
-        {
-          "title": "Plan National d'Action du Hamster",
-          "sublayers": [
-            {
-              "title": "Zones de protection statique"
-            },
-            {
-              "title": "Zone d'accompagnement"
-            },
-            {
-              "title": "Terriers 2019"
-            },
-            {
-              "title": "Parcelles prospectées 2019"
-            },
-            {
-              "title": "Zones de prospections 2019"
-            },
-            {
-              "title": "Terriers 2018"
-            },
-            {
-              "title": "Parcelles prospectées 2018"
-            },
-            {
-              "title": "Zones de prospection 2018"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sites et paysages",
-      "sublayers": [
-        {
-          "title": "Sites inscrits et classés"
-        }
-      ]
-    },
-    {
-      "title": "Aménagement",
-      "sublayers": [
-        {
-          "title": "Périmètre de la Directive Territoriale d''Aménagement (DTA) des Bassins Miniers Nord Lorrains"
-        },
-        {
-          "title": "Périmètre des SCOT"
-        },
-        {
-          "title": "Opération d'Intérêt National (OIN) dite d'Alzette-Belval"
-        },
-        {
-          "title": "Périmètre de Massif des Vosges (Datar)"
-        }
-      ]
-    },
-    {
-      "title": "Impacts et risques antropiques",
-      "sublayers": [
-        {
-          "title": "ICPE avec surveillance environnementale"
         }
       ]
     },
     {
       "title": "Forêts et Agriculture",
       "sublayers": [
-        {
-          "title": "ONF - Forêts Publiques - Champagne-Ardenne"
-        },
-        {
-          "title": "ONF - Forêts Publiques - Lorraine"
-        },
-        {
-          "title": "ONF - Forêts Publiques - Alsace"
-        },
-        {
-          "title": "ONF - Parcelles Forestières"
-        },
-        {
-          "title": "ONF - Directions Terrioriales"
-        },
-        {
-          "title": "ONF - Agences Terrioriales"
-        },
-        {
-          "title": "ONF - Points de Rencontre des Secours"
-        },
         {
           "title": "DRAAF - Petite Région Agricole",
           "resource": "wms:https://www.datagrandest.fr/geoserver/draaf/wms?#R44_PRA2017_2021"
