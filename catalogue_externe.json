@@ -865,7 +865,7 @@
         },
         {
           "title": "Test - Natura 2000",
-          "ressource": "wms:https://carto2.geo-ide.din.developpement-durable.gouv.fr/rest-api/ows/03ba65a0-71f4-4e17-996c-faa723abe733/NATURA2000_ZSC_S_R44?"
+          "ressource": "wms:https://carto2.geo-ide.din.developpement-durable.gouv.fr/rest-api/ows/03ba65a0-71f4-4e17-996c-faa723abe733?#NATURA2000_ZSC_S_R44"
         }
       ]
     }
