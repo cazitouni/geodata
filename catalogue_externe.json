@@ -864,7 +864,7 @@
           "resource": "wfs:https://ws.carmencarto.fr/WFS/105/ONF_Forets?#ms:PRS_FR"
         },
         {
-          "title": "Parc National",
+          "title": "TTT",
           "resource": "wms:https://ws.carmencarto.fr/WMS/119/fxx_inpn?#Zone_de_protection_renforcee"
         }
       ]
