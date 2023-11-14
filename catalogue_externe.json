@@ -866,7 +866,7 @@
         {
           "title": "TTTT",
           "resource": "wms:https://ws.carmencarto.fr/WMS/119/fxx_inpn?#Zone_de_protection_renforcee"
-        },
+        }
       ]
     }
   ]
