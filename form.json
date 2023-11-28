@@ -87,11 +87,9 @@
           "type": "string",
           "pattern": "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
         }
-        // Other watermark properties...
       },
       "description": "Configuration of watermark to add to raster export images."
     },
-    // Additional properties...
   },
-  "required": ["id", "url"] // Example required fields
+  "required": ["id", "url"]
 }
