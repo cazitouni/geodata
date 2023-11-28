@@ -89,7 +89,7 @@
         }
       },
       "description": "Configuration of watermark to add to raster export images."
-    },
+    }
   },
   "required": ["id", "url"]
 }
