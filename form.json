@@ -135,9 +135,93 @@
       "description": "Optional, list of available background layers, defaults to defaultBackgroundLayers."
     },
     "searchProviders": {
-      "type": "array",
-      "items": {
-        "type": "string"
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "input": "text"
+        },
+        "qgisSearch":{
+          "type": "object",
+          "properties": {
+            "provider": {
+              "type": "string",
+              "input": "text"
+            },
+            "params": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "type": "string",
+                  "input": "text"
+                },
+                "featureCount": {
+                  "type": "number",
+                  "input": "number"
+                },
+                "resultTitle": {
+                  "type": "string",
+                  "input": "text"
+                },
+                "description": {
+                  "type": "string",
+                  "input": "text"
+                },
+                "default": {
+                  "type": "boolean",
+                  "input": "radio"
+                },
+                "group":{
+                  "type": "string",
+                  "input": "text"
+                },
+                "expression": {
+                  "type": "object",
+                  "properties": {
+                    "layername": {
+                      "type": "string",
+                      "input": "text"
+                    },
+                    "query": {
+                      "type": "string",
+                      "input": "text"
+                    }
+                  }
+                }
+              }
+            },
+            "fields": {
+              "type": "object",
+              "properties": {
+                "fieldName": {
+                  "type":"string",
+                  "input": "text"
+                },
+                "fieldOptions":{
+                  "type":"object",
+                  "properties": {
+                    "label": {
+                      "type":"string",
+                      "input": "text"
+                    },
+                    "type":{
+                      "type": "string",
+                      "input": "select"
+                    },
+                    "options":{
+                      "type":"array",
+                      "input":"text",
+                      "items":{
+                        "type":"string"
+                      }
+                    }
+                  }
+                }
+                
+              }
+            }
+          }
+        }
       },
       "description": "List of search providers."
     },
