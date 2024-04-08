@@ -1,1 +1,23 @@
-%3CStyledLayerDescriptor%20version=%221.0.0%22%20xmlns=%22http://www.opengis.net/sld%22%20xmlns:ogc=%22http://www.opengis.net/ogc%22%3E%3CNamedLayer%3E%3CName%3EArbre%3C/Name%3E%3CUserStyle%3E%3CTitle%3ERed%20Point%20Style%3C/Title%3E%3CFeatureTypeStyle%3E%3CRule%3E%3CPointSymbolizer%3E%3CGraphic%3E%3CMark%3E%3CWellKnownName%3Ecircle%3C/WellKnownName%3E%3CFill%3E%3CCssParameter%20name=%22fill%22%3E%23FF0000%3C/CssParameter%3E%3C/Fill%3E%3C/Mark%3E%3CSize%3E15%3C/Size%3E%3C/Graphic%3E%3C/PointSymbolizer%3E%3C/Rule%3E%3C/FeatureTypeStyle%3E%3C/UserStyle%3E%3C/NamedLayer%3E%3C/StyledLayerDescriptor%3E
+<StyledLayerDescriptor version="1.0.0" xmlns="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc">
+  <NamedLayer>
+    <Name>Arbre</Name>
+    <UserStyle>
+      <Title>Red Point Style</Title>
+      <FeatureTypeStyle>
+        <Rule>
+          <PointSymbolizer>
+            <Graphic>
+              <Mark>
+                <WellKnownName>circle</WellKnownName>
+                <Fill>
+                  <CssParameter name="fill">#FF0000</CssParameter>
+                </Fill>
+              </Mark>
+              <Size>15</Size>
+            </Graphic>
+          </PointSymbolizer>
+        </Rule>
+      </FeatureTypeStyle>
+    </UserStyle>
+  </NamedLayer>
+</StyledLayerDescriptor>
