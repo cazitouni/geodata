@@ -13,7 +13,7 @@
                   <CssParameter name="fill">#000000</CssParameter> <!-- No fill -->
                 </Fill>
                 <Stroke> <!-- Red borders -->
-                  <CssParameter name="stroke">#FF0000</CssParameter>
+                  <CssParameter name="stroke">#ffffff00</CssParameter>
                 </Stroke>
               </Mark>
               <Size>15</Size>
