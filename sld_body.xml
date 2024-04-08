@@ -15,10 +15,10 @@
                 </Fill>
                 <Stroke> <!-- Red borders -->
                   <CssParameter name="stroke">#f50505</CssParameter>
-                  <CssParameter name="stroke-width">1</CssParameter>
+                  <CssParameter name="stroke-width">2</CssParameter>
                 </Stroke>
               </Mark>
-              <Size>18</Size>
+              <Size>19</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
