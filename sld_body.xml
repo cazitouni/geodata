@@ -14,10 +14,11 @@
                   <CssParameter name="fill-opacity">0</CssParameter>
                 </Fill>
                 <Stroke> <!-- Red borders -->
-                  <CssParameter name="stroke">#ffffff00</CssParameter>
+                  <CssParameter name="stroke">#f50505</CssParameter>
+                  <CssParameter name="stroke-width">1</CssParameter>
                 </Stroke>
               </Mark>
-              <Size>15</Size>
+              <Size>18</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
