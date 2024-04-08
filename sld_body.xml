@@ -2,16 +2,19 @@
   <NamedLayer>
     <Name>Arbre</Name>
     <UserStyle>
-      <Title>Red Point Style</Title>
+      <Title>Red Square Style</Title>
       <FeatureTypeStyle>
         <Rule>
           <PointSymbolizer>
             <Graphic>
               <Mark>
-                <WellKnownName>circle</WellKnownName>
+                <WellKnownName>square</WellKnownName>
                 <Fill>
-                  <CssParameter name="fill">#FF0000</CssParameter>
+                  <CssParameter name="fill">#000000</CssParameter> <!-- No fill -->
                 </Fill>
+                <Stroke> <!-- Red borders -->
+                  <CssParameter name="stroke">#FF0000</CssParameter>
+                </Stroke>
               </Mark>
               <Size>15</Size>
             </Graphic>
