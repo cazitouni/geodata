@@ -2,17 +2,12 @@
   "catalog": [
     {
       "title": "Occupation du Sol",
-      "sublayers": [
-        {
-          "title": "BD-EA 2019",
-          "sublayers": [
-            {
-              "title": "OpenStreetMap - OSM style Toponymes seuls",
-              "resource": "wms:https://osm.datagrandest.fr/mapcache#overlay"
-            }
-          ]
-        }
-      ]
+        "sublayers": [
+          {
+            "title": "OpenStreetMap - OSM style Toponymes seuls",
+            "resource": "wms:https://osm.datagrandest.fr/mapcache#overlay"
+          }
+        ]
     }
   ]
 }
