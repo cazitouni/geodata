@@ -10,7 +10,8 @@
               <Mark>
                 <WellKnownName>square</WellKnownName>
                 <Fill>
-                  <CssParameter name="fill">#000000</CssParameter> <!-- No fill -->
+                  <CssParameter name="fill">#000000</CssParameter>
+                  <CssParameter name="fill-opacity">#000000</CssParameter>
                 </Fill>
                 <Stroke> <!-- Red borders -->
                   <CssParameter name="stroke">#ffffff00</CssParameter>
