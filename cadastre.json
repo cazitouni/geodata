@@ -1,0 +1,80 @@
+{
+  "version": 8,
+  "name": "Cadastre",
+  "metadata": {
+    "maputnik:license": "https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md",
+    "maputnik:renderer": "mbgljs",
+    "openmaptiles:version": "3.x"
+  },
+  "sources": {
+    "i5xo75t0k": {
+      "type": "vector",
+      "tiles": ["https://martin.metrotopic.net/cadastre_sections/{z}/{x}/{y}"],
+      "minZoom": 0,
+      "maxZoom": 14,
+      "maxzoom": 24
+    },
+    "414lsxsbf": {
+      "type": "vector",
+      "tiles": ["https://martin.metrotopic.net/cadastre_parcelles/{z}/{x}/{y}"],
+      "minZoom": 0,
+      "maxZoom": 14
+    }
+  },
+  "sprite": "",
+  "glyphs": "https://orangemug.github.io/font-glyphs/glyphs/{fontstack}/{range}.pbf",
+  "layers": [
+    {
+      "id": "Sections",
+      "type": "fill",
+      "source": "i5xo75t0k",
+      "source-layer": "cadastre_sections",
+      "minzoom": 0,
+      "maxzoom": 15,
+      "paint": {
+        "fill-opacity": 0.3,
+        "fill-antialias": false,
+        "fill-color": "rgba(56, 57, 152, 1)"
+      }
+    },
+    {
+      "id": "Sections - Limites",
+      "type": "line",
+      "source": "i5xo75t0k",
+      "source-layer": "cadastre_sections",
+      "maxzoom": 15,
+      "paint": {
+        "line-opacity": 0.7,
+        "line-color": "#383998",
+        "line-width": 2,
+        "line-blur": 0.5
+      }
+    },
+    {
+      "id": "parcelles",
+      "type": "fill",
+      "source": "414lsxsbf",
+      "source-layer": "cadastre_parcelles",
+      "minzoom": 15,
+      "paint": {
+        "fill-color": "rgba(255, 80, 80, 1)",
+        "fill-opacity": 0.3,
+        "fill-antialias": false
+      }
+    },
+    {
+      "id": "parcelles - limites",
+      "type": "line",
+      "source": "414lsxsbf",
+      "source-layer": "cadastre_parcelles",
+      "minzoom": 15,
+      "paint": {
+        "line-color": "#FF5050",
+        "line-opacity": 0.7,
+        "line-blur": 0.5,
+        "line-width": 2
+      }
+    }
+  ],
+  "id": "osm-liberty"
+}
