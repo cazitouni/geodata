@@ -1,551 +1,3160 @@
 {
   "catalog": [
     {
+      "title": "Catalogue IGN",
+      "sublayers": [
+        {
+          "title": "Cartographie biométhane d’accès aux réseaux",
+          "resource": "wmts:https://data.geopf.fr/wmts#ACCES.BIOMETHANE"
+        },
+        {
+          "title": "ADMINEXPRESS COG CARTO PE (PETITE ECHELLE); Dernière édition",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMIN-EXPRESS-COG-CARTO-PE.LATEST"
+        },
+        {
+          "title": "ADMINEXPRESS COG CARTO PE (PETITE ECHELLE); Edition 2025-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG-CARTO-PE.2025"
+        },
+        {
+          "title": "ADMINEXPRESS COG CARTO",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG-CARTO.LATEST"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2017-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2017"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2018-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2018"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2019-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2019"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2020-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2020"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2021-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2021"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2022-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2022"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2023-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2023"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2024-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2024"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Edition : 2025-01-01",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2025"
+        },
+        {
+          "title": "ADMINEXPRESS COG ; Dernière édition",
+          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.LATEST"
+        },
+        {
+          "title": "Carte de Cassini – exemplaire du roi",
+          "resource": "wmts:https://data.geopf.fr/wmts#AN-IGNF_GEOGRAPHICALGRIDSYSTEMS.CASSINI"
+        },
+        {
+          "title": "Zones franches urbaines",
+          "resource": "wmts:https://data.geopf.fr/wmts#AREAMANAGEMENT.ZFU"
+        },
+        {
+          "title": "Zones urbaines sensibles",
+          "resource": "wmts:https://data.geopf.fr/wmts#AREAMANAGEMENT.ZUS"
+        },
+        {
+          "title": "Délimitation parcellaire AOC viticole",
+          "resource": "wmts:https://data.geopf.fr/wmts#Aire-Parcellaire"
+        },
+        {
+          "title": "BD CARTO Etat-major N3",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDCARTO_ETAT-MAJOR.NIVEAU3"
+        },
+        {
+          "title": "BD CARTO Etat-major N4",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDCARTO_ETAT-MAJOR.NIVEAU4"
+        },
+        {
+          "title": "Bâtiments BDTopo Différentiel; Edition : 2025-12-15",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDTOPO-DIFF-BATI"
+        },
+        {
+          "title": "Hydrographie BDTopo Différentiel; Edition : 2025-12-15",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDTOPO-DIFF-HYDROGRAPHIE"
+        },
+        {
+          "title": "Réseau routier BDTopo Différentiel; Edition : 2025-12-15",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDTOPO-DIFF-RESEAU_ROUTIER"
+        },
+        {
+          "title": "Zone d'activités BDTopo Différentiel; Edition : 2025-12-15",
+          "resource": "wmts:https://data.geopf.fr/wmts#BDTOPO-DIFF-ZONE_ACTIVITES"
+        },
+        {
+          "title": "Estimation de besoins de chaleur - secteur industriel",
+          "resource": "wmts:https://data.geopf.fr/wmts#BESOIN.CHALEUR.INDUSTRIEL"
+        },
+        {
+          "title": "Carte de Cassini",
+          "resource": "wmts:https://data.geopf.fr/wmts#BNF-IGNF_GEOGRAPHICALGRIDSYSTEMS.CASSINI"
+        },
+        {
+          "title": "Bâtiments",
+          "resource": "wmts:https://data.geopf.fr/wmts#BUILDINGS.BUILDINGS"
+        },
+        {
+          "title": "Bacquelot -- raster -- ortho - WMTS",
+          "resource": "wmts:https://data.geopf.fr/wmts#Bacquelot__raster_wmts"
+        },
+        {
+          "title": "Sections cadastrales - BD PARCELLAIRE",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRAL.PARCELS.SECTIONS"
+        },
+        {
+          "title": "Décalage de la représentation cadastrale",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.HEATMAP"
+        },
+        {
+          "title": "Parcelles cadastrales historiques (2008-2013)",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.HISTO.2008-2013.PARCELS"
+        },
+        {
+          "title": "Parcellaire cadastral",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.PARCELLAIRE_EXPRESS"
+        },
+        {
+          "title": "Parcellaire cadastral",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.PARCELLAIRE_EXPRESS.L93"
+        },
+        {
+          "title": "Parcelles cadastrales",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.PARCELS"
+        },
+        {
+          "title": "Parcelles cadastrales",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.PARCELS.L93"
+        },
+        {
+          "title": "Qualité du géoréférencement de la BD Parcellaire",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRALPARCELS.QUALREFBDP"
+        },
+        {
+          "title": "Cadastres solaires détaillés",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRES.SOLAIRES.DETAILLES"
+        },
+        {
+          "title": "Cadastres solaires locaux",
+          "resource": "wmts:https://data.geopf.fr/wmts#CADASTRES.SOLAIRES.LOCAUX"
+        },
+        {
+          "title": "Capacité d'accueil pour le raccordement aux réseaux de transport et de distribution des installations de production d'électricité - S3RENR (MW)",
+          "resource": "wmts:https://data.geopf.fr/wmts#CAPACITE.ACCUEIL.ELECTRIQUE"
+        },
+        {
+          "title": "Verdun et ses environs: voies de communication (novembre 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#CARTES-14-18-EDUGEO_PYR-PNG_FXX_WM"
+        },
+        {
+          "title": "Monde Natural Earth",
+          "resource": "wmts:https://data.geopf.fr/wmts#CARTES.NATURALEARTH"
+        },
+        {
+          "title": "Quartiers prioritaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#CGET_QP_BDD_WLD_WM_WMTS_20150914"
+        },
+        {
+          "title": "Quartiers prioritaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#COMMUNES.PRIORITYDISCTRICT"
+        },
+        {
+          "title": "Communes selon les zones de sismicité",
+          "resource": "wmts:https://data.geopf.fr/wmts#COMMUNES.SISMICITE"
+        },
+        {
+          "title": "Conservatoire du littoral : parcelles protégées",
+          "resource": "wmts:https://data.geopf.fr/wmts#CONSERVATOIRE_LITTORAL.PARCELLES"
+        },
+        {
+          "title": "Conservatoire du littoral : périmètres d intervention",
+          "resource": "wmts:https://data.geopf.fr/wmts#CONSERVATOIRE_LITTORAL.PERIMETRES"
+        },
+        {
+          "title": "Consommation annuelle d’électricité par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#CONSO.ELEC.COMMUNE"
+        },
+        {
+          "title": "Consommation annuelle de gaz par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#CONSO.GAZ.COMMUNE"
+        },
+        {
+          "title": "test OCS - Carte de prédiction vecteur simplifiée",
+          "resource": "wmts:https://data.geopf.fr/wmts#COSIA"
+        },
+        {
+          "title": "habitat_carhab_Reunion",
+          "resource": "wmts:https://data.geopf.fr/wmts#Carhab_Reunion_PYRAMIDE"
+        },
+        {
+          "title": "habitat_carhab",
+          "resource": "wmts:https://data.geopf.fr/wmts#Carhab_habitat"
+        },
+        {
+          "title": "DALLES_BLOC_E",
+          "resource": "wmts:https://data.geopf.fr/wmts#DALLES_BLOC_E"
+        },
+        {
+          "title": "DALLES_BLOC_I",
+          "resource": "wmts:https://data.geopf.fr/wmts#DALLES_BLOC_I"
+        },
+        {
+          "title": "DALLES_STJULIEN",
+          "resource": "wmts:https://data.geopf.fr/wmts#DALLES_STJULIEN"
+        },
+        {
+          "title": "Zonage informatif des obligations légales de débroussaillement",
+          "resource": "wmts:https://data.geopf.fr/wmts#DEBROUSSAILLEMENT"
+        },
+        {
+          "title": "Délaissés autoroutiers",
+          "resource": "wmts:https://data.geopf.fr/wmts#DELAISSES.AUTOROUTIERS"
+        },
+        {
+          "title": "DGCL.2025 : Voirie communale retenue DGF",
+          "resource": "wmts:https://data.geopf.fr/wmts#DGCL.2025.voirie-communale"
+        },
+        {
+          "title": "DGCL.2025 : Voirie départementale retenue DGF",
+          "resource": "wmts:https://data.geopf.fr/wmts#DGCL.2025.voirie-departementale"
+        },
+        {
+          "title": "DGCL Longueur de voirie retenue pour les communes pour la DGF 2026",
+          "resource": "wmts:https://data.geopf.fr/wmts#DGCL.2026.communale"
+        },
+        {
+          "title": "DGCL Longueur de voirie retenue pour les départements pour la DGF 2026",
+          "resource": "wmts:https://data.geopf.fr/wmts#DGCL.2026.voirie-departementale"
+        },
+        {
+          "title": "Zonage du dispositif Pinel en Bretagne 2020-2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#DREAL.ZONAGE_PINEL"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#EDUGEO.LANDUSE.AGRICULTURE2012"
+        },
+        {
+          "title": "Crues du bassin de la Seine - PHEC",
+          "resource": "wmts:https://data.geopf.fr/wmts#EDUGEO.NATURALRISKZONES.1910FLOODEDWATERSHEDS"
+        },
+        {
+          "title": "Courbes de niveau",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.CONTOUR.LINE"
+        },
+        {
+          "title": "MNT BDAlti V1",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE"
+        },
+        {
+          "title": "Modèle Numérique de Terrain issu du RGEALTI",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE.HIGHRES"
+        },
+        {
+          "title": "Modèle numérique de surface",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE.HIGHRES.MNS"
+        },
+        {
+          "title": "Estompage",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW"
+        },
+        {
+          "title": "MNT SRTM3",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE.SRTM3"
+        },
+        {
+          "title": "Seuils de pente pour l'agriculture",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.ELEVATIONGRIDCOVERAGE.THRESHOLD"
+        },
+        {
+          "title": "Trait de côte Histolitt",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.LEVEL0"
+        },
+        {
+          "title": "Altitude",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.SLOPES"
+        },
+        {
+          "title": "Litto3D ®",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATION.SLOPES.HIGHRES"
+        },
+        {
+          "title": "Masque de source du RGE Alti",
+          "resource": "wmts:https://data.geopf.fr/wmts#ELEVATIONGRIDCOVERAGE.HIGHRES.QUALITY"
+        },
+        {
+          "title": "Contraintes réglementaires aeronautiques civiles",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.AERO.CIVIL"
+        },
+        {
+          "title": "Contraintes réglementaires aeronautiques militaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.AERO.MILITAIRE"
+        },
+        {
+          "title": "Grands sites de France",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.GRANDS.SITES.FRANCE"
+        },
+        {
+          "title": "Contraintes réglementaires liées aux habitatons",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.PERIMETRE.HABITATION"
+        },
+        {
+          "title": "Contraintes réglementaires liées aux pentes",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.PERIMETRE.PENTE"
+        },
+        {
+          "title": "Contraintes réglementaires liées aux routes",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.PERIMETRE.ROUTE"
+        },
+        {
+          "title": "Contraintes réglementaires liées aux voies ferrées",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENR.PERIMETRE.VOIE.FERREE"
+        },
+        {
+          "title": "Estimation des besoins de chaleur des bâtiments des secteurs résidentiels et tertiaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.BESOINS.CHAUD"
+        },
+        {
+          "title": "Estimation des besoins de froid des bâtiments des secteurs résidentiels et tertiaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.BESOINS.FROID"
+        },
+        {
+          "title": "Localisation et estimation du gisement de chaleur fatale des 500 plus gros sites industriels de France",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.CHALEUR.FATALE.500.INDUSTRIES"
+        },
+        {
+          "title": "Localisation et caractérisation des Data Center en France",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.CHALEUR.FATALE.DATACENTER"
+        },
+        {
+          "title": "Localisation et estimation du gisement de chaleur fatale des STEP en France",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.CHALEUR.FATALE.STEP"
+        },
+        {
+          "title": "Zones d’opportunité « à potentiel » pour la création ou l’extension de réseaux de chaleur",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.ZONE.POTENTIEL.CHAUD"
+        },
+        {
+          "title": "Zones d’opportunité « à fort potentiel » pour la création ou l’extension de réseaux de chaleur",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.ZONE.POTENTIEL.FORT.CHAUD"
+        },
+        {
+          "title": "Zones d’opportunité « à fort potentiel » pour la création ou l’extension de réseaux de froid",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.ZONE.POTENTIEL.FORT.FROID"
+        },
+        {
+          "title": "Zones d’opportunité « à potentiel » pour la création ou l’extension de réseaux de froid",
+          "resource": "wmts:https://data.geopf.fr/wmts#ENREZO.ZONE.POTENTIEL.FROID"
+        },
+        {
+          "title": "Évolution des surfaces forestières (1980 et 2011)",
+          "resource": "wmts:https://data.geopf.fr/wmts#EVOL-SURFACE-FORESTIERE-1980-2011_EDUGEO_PYR-PNG_FXX_LAMB93_20150918"
+        },
+        {
+          "title": "Forêts publiques",
+          "resource": "wmts:https://data.geopf.fr/wmts#FORETS.PUBLIQUES"
+        },
+        {
+          "title": "Corridors de distribution de gaz",
+          "resource": "wmts:https://data.geopf.fr/wmts#GAZ.CORRIDOR.DISTRIBUTION"
+        },
+        {
+          "title": "Corridors de transport de gaz",
+          "resource": "wmts:https://data.geopf.fr/wmts#GAZ.CORRIDOR.TRANSPORT"
+        },
+        {
+          "title": "Réseaux de distribution de gaz",
+          "resource": "wmts:https://data.geopf.fr/wmts#GAZ.RESEAU.DISTRIBUTION"
+        },
+        {
+          "title": "Réseaux de transport de gaz",
+          "resource": "wmts:https://data.geopf.fr/wmts#GAZ.RESEAU.TRANSPORT"
+        },
+        {
+          "title": "Carroyage DFCI",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEM.DFCI"
+        },
+        {
+          "title": "Carte topographique - environs de Paris (1906)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.1900TYPEMAPS"
+        },
+        {
+          "title": "Front : Arras Verdun Belfort (15 novembre 1914)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.1914_11_15_ARRAS_VERDUN_BELFORT_fronts_600K"
+        },
+        {
+          "title": "Guyane française (1780)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.BONNE"
+        },
+        {
+          "title": "Carte littorale (SHOM/IGN)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.COASTALMAPS"
+        },
+        {
+          "title": "Fort Douaumont (18 mai 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.DOUAUMONT_FORT_positions_5K_18mai1916"
+        },
+        {
+          "title": "Cartographie AJACCIO 1976",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.AJACCIO1976"
+        },
+        {
+          "title": "Cartographie BELFORT MONTBELLIARD 1973",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.BELFORT-MONTBELLIARD1973"
+        },
+        {
+          "title": "Cartographie BERRY SUD 1952",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.BERRY-SUD1952"
+        },
+        {
+          "title": "Cartographie BETHUNE 1956",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.BETHUNE1956"
+        },
+        {
+          "title": "Cartographie BIARRITZ 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.BIARRITZ1979"
+        },
+        {
+          "title": "Cartographie BOURG St-MAURICE 1974",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.BOURG-ST-MAURICE1974"
+        },
+        {
+          "title": "Cartographie CAEN 1969",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.CAEN1969"
+        },
+        {
+          "title": "Cartographie Cap d'AGDE 1971",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.CAP-DAGDE1971"
+        },
+        {
+          "title": "Cartographie CLERMONT FERRAND 1966",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.CLERMONT-FERRAND1966"
+        },
+        {
+          "title": "Cartographie CREIL SUD PICARDIE 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.CREIL-SUD-PICARDIE1979"
+        },
+        {
+          "title": "Cartographie Dijon 1962",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.DIJON1962"
+        },
+        {
+          "title": "Douaumont et ses environs (avril 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.Douaumont1916"
+        },
+        {
+          "title": "Cartographie GRENOBLE 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.GRENOBLE1965"
+        },
+        {
+          "title": "Cartographie GRENOBLE 1976",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.GRENOBLE1976"
+        },
+        {
+          "title": "Cartographie GRENOBLE 1991",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.GRENOBLE1991"
+        },
+        {
+          "title": "Cartographie Guadeloupe 1955",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.GUADELOUPE1955"
+        },
+        {
+          "title": "Cartographie Guyane 1958",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.GUYANE1958"
+        },
+        {
+          "title": "Cartographie LA REUNION 1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LA-REUNION1980"
+        },
+        {
+          "title": "Cartographie LA ROCHELLE-ROCHEFORT 1959",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LA-ROCHELLE-ROCHEFORT1959"
+        },
+        {
+          "title": "Cartographie Le Havre 1975",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LE-HAVRE1975"
+        },
+        {
+          "title": "Cartographie Le Havre 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LE-HAVRE1979"
+        },
+        {
+          "title": "Cartographie Limoges 1966",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LIMOGES1966"
+        },
+        {
+          "title": "Cartographie LYON 1947",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LYON1947"
+        },
+        {
+          "title": "Cartographie LYON 1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LYON1980"
+        },
+        {
+          "title": "Cartographie LYON 1985",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.LYON1985"
+        },
+        {
+          "title": "Le Mort Homme et ses environs (avril 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.Le-Mort-Homme-et-ses-environs-avril-1916"
+        },
+        {
+          "title": "Cartographie MARNE LA VALLÉE 1966",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARNE-LA-VALLEE1966"
+        },
+        {
+          "title": "Cartographie MARNE LA VALLÉE 1978",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARNE-LA-VALLEE1978"
+        },
+        {
+          "title": "Cartographie MARNE LA VALLÉE 1987",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARNE-LA-VALLEE1987"
+        },
+        {
+          "title": "Cartographie MARSEILLE MARTIGUES 1947 ",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARSEILLE-MARTIGUES1947"
+        },
+        {
+          "title": "Cartographie MARSEILLE MARTIGUES 1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARSEILLE-MARTIGUES1980"
+        },
+        {
+          "title": "Cartographie MARSEILLE MARTIGUES 1986",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.MARSEILLE-MARTIGUES1986"
+        },
+        {
+          "title": "Cartographie METZ NANCY 1983",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.METZ-NANCY1983"
+        },
+        {
+          "title": "Cartographie NANTES 1972",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.NANTES1972"
+        },
+        {
+          "title": "Cartographie 1964",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.PARIS1964"
+        },
+        {
+          "title": "Cartographie 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.PARIS1979"
+        },
+        {
+          "title": "Organisation défensive sur la Meuse (avril 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.Positions_20K_avr1916"
+        },
+        {
+          "title": "Cartographie REIMS 1974",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.REIMS1974"
+        },
+        {
+          "title": "Cartographie Roissy 1973",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.ROISSY1973"
+        },
+        {
+          "title": "Cartographie Roissy 1978",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.ROISSY1978"
+        },
+        {
+          "title": "Cartographie STRASBOURG 1956",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.STRASBOURG1956"
+        },
+        {
+          "title": "Cartographie STRASBOURG 1978",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.STRASBOURG1978"
+        },
+        {
+          "title": "Cartographie TOULON HYERES 1976",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.TOULON-HYERES1976"
+        },
+        {
+          "title": "Cartographie TOULOUSE 1948",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.TOULOUSE1948"
+        },
+        {
+          "title": "Cartographie Vannes Golfe du Morbihan 1960",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.VANNES-GOLFE-DU-MORBIHAN1960"
+        },
+        {
+          "title": "Cartographie Vannes Golfe du Morbihan 1971",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.VANNES-GOLFE-DU-MORBIHAN1971"
+        },
+        {
+          "title": "Verdun nord : fronts français (21-26 février 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.VERDUN_NORD_fronts_francais_20K"
+        },
+        {
+          "title": "Verdun nord : organisations défensives (21 février 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.VERDUN_NORD_organisations_defensives_20K"
+        },
+        {
+          "title": "Cartographie Versailles 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.EDUGEO.VERSAILLES1979"
+        },
+        {
+          "title": "Carte de l'état-major - environs de Paris (1818 - 1824)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR10"
+        },
+        {
+          "title": "Carte de l'état-major (1820-1866)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40"
+        },
+        {
+          "title": "Plan IGN J+1",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.MAPS.BDUNI.J1"
+        },
+        {
+          "title": "Carte Mondiale pour la mini-vue",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.MAPS.OVERVIEW"
+        },
+        {
+          "title": "SCAN50 Historique de 1950",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN50.1950"
+        },
+        {
+          "title": "Plan IGN",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2"
+        },
+        {
+          "title": "Plan IGN v2 Lambert93",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2.L93"
+        },
+        {
+          "title": "Carte des pentes",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.SLOPES.MOUNTAIN"
+        },
+        {
+          "title": "Carte des pentes pour l'agriculture sur la métropole",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.SLOPES.PAC"
+        },
+        {
+          "title": "Plan Terrier V1 (XVIIIe siècle)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.TERRIER_V1"
+        },
+        {
+          "title": "Plan Terrier V2 (XVIIIe siècle)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.TERRIER_V2"
+        },
+        {
+          "title": "Verdun et ses environs : offensives (février 1916 à aout1917 )",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.VERDUN_ENVIRONS_NORD_fronts_offensves_50K"
+        },
+        {
+          "title": "Verdun et ses environs: voies de communication (novembre 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.VERDUN_ENVIRONS_SUD_NORD_com_group_80K"
+        },
+        {
+          "title": "Verdun et ses environs : fronts français (21-26 février 1916)",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALGRIDSYSTEMS.VERDUN_ENVIRONS_fronts_50K_21-26fevr1916"
+        },
+        {
+          "title": "Noms",
+          "resource": "wmts:https://data.geopf.fr/wmts#GEOGRAPHICALNAMES.NAMES"
+        },
+        {
+          "title": "Ortho 20 cm",
+          "resource": "wmts:https://data.geopf.fr/wmts#HR.ORTHOIMAGERY.ORTHOPHOTOS"
+        },
+        {
+          "title": "Photographies aériennes Lambert 93",
+          "resource": "wmts:https://data.geopf.fr/wmts#HR.ORTHOIMAGERY.ORTHOPHOTOS.L93"
+        },
+        {
+          "title": "Cours d'eau BCAE 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2020"
+        },
+        {
+          "title": "Cours d'eau BCAE 2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2021"
+        },
+        {
+          "title": "Cours d'eau BCAE 2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2022"
+        },
+        {
+          "title": "Cours d'eau BCAE 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2023"
+        },
+        {
+          "title": "Cours d'eau BCAE 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2024"
+        },
+        {
+          "title": "Cours d'eau BCAE 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2025"
+        },
+        {
+          "title": "Bandes tampons des cours d'eau 2026",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.2026"
+        },
+        {
+          "title": "Bandes tampons des cours d'eau - dernière édition",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.BCAE.LATEST"
+        },
+        {
+          "title": "Hydrographie",
+          "resource": "wmts:https://data.geopf.fr/wmts#HYDROGRAPHY.HYDROGRAPHY"
+        },
+        {
+          "title": "Accessibilité physique des forêts PORTEUR",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_ACCESSIBILITE-PHYSIQUE-FORETS-PORTEUR"
+        },
+        {
+          "title": "Accessibilité physique des forêts SKIDDER",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_ACCESSIBILITE-PHYSIQUE-FORETS-SKIDDER"
+        },
+        {
+          "title": "BD France TOPO – thème végétation – beta",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_BD-FRANCE-TOPO-VEGETATION"
+        },
+        {
+          "title": "BD HAIE 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_BD-HAIE-V1_2020"
+        },
+        {
+          "title": "SCAN1000 France métropolitaine",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_CARTES_SCAN-1000"
+        },
+        {
+          "title": "Scan Régional",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_CARTES_SCAN-REGIONAL"
+        },
+        {
+          "title": "IGNF COSIA 2017-2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_COSIA_2017-2020"
+        },
+        {
+          "title": "IGNF COSIA 2021-2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_COSIA_2021-2023"
+        },
+        {
+          "title": "COSIA 2024-2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_COSIA_2024-2026"
+        },
+        {
+          "title": "Estompage haute résolution issu des données MNT IGN",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW"
+        },
+        {
+          "title": "Forêts anciennes",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_FORETS-ANCIENNES"
+        },
+        {
+          "title": "France Relief MNS",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_FRANCE-RELIEF_MNS"
+        },
+        {
+          "title": "MNH issu de LiDAR HD",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_LIDAR-HD_MNH_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW"
+        },
+        {
+          "title": "MNS issu de LiDAR HD",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_LIDAR-HD_MNS_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW"
+        },
+        {
+          "title": "MNT issu de LiDAR HD",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_LIDAR-HD_MNT_ELEVATION.ELEVATIONGRIDCOVERAGE.SHADOW"
+        },
+        {
+          "title": "Masque Forêt 2021-2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_MASQUE-FORET.2021-2023"
+        },
+        {
+          "title": "Nature en Ville 2021-2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_NATURE-EN-VILLE_2021-2023"
+        },
+        {
+          "title": "ORTHO MIXTE Aérien / Satellite",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_ORTHOIMAGERY.ORTHOPHOTOS-MIXTE.BDORTHO"
+        },
+        {
+          "title": "ORTHO MIXTE Aérien / Satellite Express",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_ORTHOIMAGERY.ORTHOPHOTOS-MIXTE.ORTHO-EXPRESS"
+        },
+        {
+          "title": "Installations photovoltaïques au sol",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_PHOTOVOLTAIQUE-SOL_2017-2020"
+        },
+        {
+          "title": "Installations photovoltaïques au sol",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_PHOTOVOLTAIQUE-SOL_2021-2023"
+        },
+        {
+          "title": "POI Administration Locale",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-ADMINISTRATION-LOCALE"
+        },
+        {
+          "title": "POI Associations, Culture, Jeunesse",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-ASSOCIATIONS-CULTURE-JEUNESSE"
+        },
+        {
+          "title": "POI Droit, Justice",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-DROIT-JUSTICE"
+        },
+        {
+          "title": "POI Economie, Finances, Consommation",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-ECONOMIE-FINANCES-CONSOMMATION"
+        },
+        {
+          "title": "POI Enseignement, Recherche",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-ENSEIGNEMENT-RECHERCHE"
+        },
+        {
+          "title": "POI Environnement, Logement, Transports",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-ENVIRONNEMENT-LOGEMENT-TRANSPORTS"
+        },
+        {
+          "title": "POI Sécurité, Défense",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-SECURITE-DEFENSE"
+        },
+        {
+          "title": "POI Social, Sante",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-SOCIAL-SANTE"
+        },
+        {
+          "title": "POI Travail, Emploi, Formation",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_POI-TRAVAIL-EMPLOI-FORMATION"
+        },
+        {
+          "title": "Parcelles catégorisées en terre arables, cultures permanentes, prairies permanentes et surfaces boisées 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_RPG_PARCELLES-AGRICOLES-CATEGORISEES_2024"
+        },
+        {
+          "title": "Parcelles éligibles aux IAE",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_RPG_PARCELLES-ELIGIBLES-IAE"
+        },
+        {
+          "title": "Prairies Permanentes 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_RPG_PRAIRIES-PERMANENTES_2024"
+        },
+        {
+          "title": "Zones de Densité Homogène (ZDH)",
+          "resource": "wmts:https://data.geopf.fr/wmts#IGNF_RPG_ZONES-DENSITE-HOMOGENE_2024"
+        },
+        {
+          "title": "Inventaire national des plans d'eau",
+          "resource": "wmts:https://data.geopf.fr/wmts#INPE"
+        },
+        {
+          "title": "carte des sols France entière",
+          "resource": "wmts:https://data.geopf.fr/wmts#INRA.CARTE.SOLS"
+        },
+        {
+          "title": "INRAE_GRAIN-BOCAGER",
+          "resource": "wmts:https://data.geopf.fr/wmts#INRAE_GRAIN-BOCAGER"
+        },
+        {
+          "title": "% des 0-17 ans (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.ENFANTS.0.17.ANS.SECRET"
+        },
+        {
+          "title": "Surface moyenne des logements (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.LOGEMENTS.SURFACE.MOYENNE.SECRET"
+        },
+        {
+          "title": "Niveau de vie winsorisé des individus (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET"
+        },
+        {
+          "title": "% familles monoparentales (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.FAMILLES.MONOPARENTALES.SECRET"
+        },
+        {
+          "title": "% des 25-39 ans (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.INDIVIDUS.25.39.ANS.SECRET"
+        },
+        {
+          "title": "% des 40-54 ans (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.INDIVIDUS.40.54.ANS.SECRET"
+        },
+        {
+          "title": "% des 55-64 ans (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.INDIVIDUS.55.64.ANS.SECRET"
+        },
+        {
+          "title": "% de logements construits après 1990 (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.APRES.1990.SECRET"
+        },
+        {
+          "title": "% de logements construits avant 1945 (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.AVANT.1945.SECRET"
+        },
+        {
+          "title": "% de logements collectifs (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.COLLECTIFS.SECRET"
+        },
+        {
+          "title": "% de logements construits entre 1945 et 1970 (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.CONSTRUITS.1945.1970.SECRET"
+        },
+        {
+          "title": "% de logements construits entre 1970 et 1990 (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.CONSTRUITS.1970.1990.SECRET"
+        },
+        {
+          "title": "% de logements sociaux (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.LOGEMENTS.SOCIAUX.SECRET"
+        },
+        {
+          "title": "% ménages de 1 personne (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.MENAGES.1.PERSONNE.SECRET"
+        },
+        {
+          "title": "% ménages de 5 personnes ou + (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.MENAGES.5.PERSONNES.OUPLUS.SECRET"
+        },
+        {
+          "title": "% ménages en maison (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.MENAGES.MAISON.SECRET"
+        },
+        {
+          "title": "% ménages pauvres (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.MENAGES.PAUVRES.SECRET"
+        },
+        {
+          "title": "% ménages propriétaires (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.MENAGES.PROPRIETAIRES.SECRET"
+        },
+        {
+          "title": "% des plus de 65 ans (secret signalé)",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.PART.PLUS.65.ANS.SECRET"
+        },
+        {
+          "title": "Densité de population",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSEE.FILOSOFI.POPULATION"
+        },
+        {
+          "title": "Périmètres des installations photovoltaïques au sol",
+          "resource": "wmts:https://data.geopf.fr/wmts#INSTALLATIONS.PV.SOL"
+        },
+        {
+          "title": "Irradiation solaire sur les zones identifiées pour le photovoltaïque au sol à Mayotte et en Guyane",
+          "resource": "wmts:https://data.geopf.fr/wmts#IRRADIATION.SOLAIRE.ZONES.INTERET"
+        },
+        {
+          "title": "CORINE Land Cover - Changements 1990-2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA00"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - Changements 1990-2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA00_FR"
+        },
+        {
+          "title": "CORINE Land Cover - Changements 2000-2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA06"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - Changements 2000-2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA06_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - Changements 2000-2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA06_FR"
+        },
+        {
+          "title": "CORINE Land Cover - Changements 2006-2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA12"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - Changements 2006-2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA12_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - Changements 2006-2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA12_FR"
+        },
+        {
+          "title": "CORINE Land Cover - Changements 2012-2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA18"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - Changements 2012-2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA18_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - Changements 2012-2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CHA18_FR"
+        },
+        {
+          "title": "CORINE Land Cover - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC00"
+        },
+        {
+          "title": "CORINE Land Cover - 2000 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC00R"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2000 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC00R_FR"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC00_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC00_FR"
+        },
+        {
+          "title": "CORINE Land Cover - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06"
+        },
+        {
+          "title": "CORINE Land Cover - 2006 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06R"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2006 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06R_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2006 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06R_FR"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC06_FR"
+        },
+        {
+          "title": "CORINE Land Cover - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12"
+        },
+        {
+          "title": "CORINE Land Cover - 2012 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12R"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2012 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12R_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2012 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12R_FR"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC12_FR"
+        },
+        {
+          "title": "CORINE Land Cover - 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC18"
+        },
+        {
+          "title": "CORINE Land Cover - DOM - 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC18_DOM"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC18_FR"
+        },
+        {
+          "title": "CORINE Land Cover - 1990",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC90"
+        },
+        {
+          "title": "CORINE Land Cover - France métropolitaine - 1990",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.CLC90_FR"
+        },
+        {
+          "title": "Évolution des surfaces forestières (1980 et 2011)",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.EVOL_SURFACE_FORESTIERE_1980-2011"
+        },
+        {
+          "title": "Tempête Klaus",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.KLAUS"
+        },
+        {
+          "title": "Fouilles archéologiques le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.LGV_archeologie"
+        },
+        {
+          "title": "Faune le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.LGV_faune"
+        },
+        {
+          "title": "Flore le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.LGV_flore"
+        },
+        {
+          "title": "Caractéristiques techniques de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.LGV_technique"
+        },
+        {
+          "title": "Taux de boisement (année moyenne 2011)",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.EDUGEO.TAUX_BOISEMENT_2009-2013"
+        },
+        {
+          "title": "Régions forestières nationales",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.FORESTAREAS"
+        },
+        {
+          "title": "BD Forêt v1 (1987-2004)",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.FORESTINVENTORY.V1"
+        },
+        {
+          "title": "BD Forêt v2 (2006-2019)",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.FORESTINVENTORY.V2"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC00"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 2000 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC00R_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - DOM - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC00_DOM"
+        },
+        {
+          "title": "Raster CORINE Land Cover - France métropolitaine - 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC00_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 2006 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06R"
+        },
+        {
+          "title": "Raster CORINE Land Cover - DOM - 2006 - révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06R_DOM"
+        },
+        {
+          "title": "Raster CORINE Land Cover - France métropolitaine - 2006 révisée",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06R_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - DOM - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06_DOM"
+        },
+        {
+          "title": "Raster CORINE Land Cover - France métropolitaine - 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC06_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC12"
+        },
+        {
+          "title": "Raster CORINE Land Cover - DOM - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC12_DOM"
+        },
+        {
+          "title": "Raster CORINE Land Cover - France métropolitaine - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC12_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - 1990",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.GRID.CLC90_FR"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du type de forêts - Résolution 20m - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.DLT.CLC12"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du type de forêts - Résolution 20m - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.DLT.CLC15"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution des prairies - Résolution 20m - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.GRA.CLC15"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du taux d'imperméabilisation des sols - Résolution 20m - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.IMD.CLC12"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du taux d'imperméabilisation des sols - Résolution 20m - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.IMD.CLC15"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du taux de couvert arboré - Résolution 20m - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.TCD.CLC12"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution du taux de couvert arboré - Résolution 20m - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.TCD.CLC15"
+        },
+        {
+          "title": "Raster CORINE Land Cover - Couche haute résolution des zones humides et surfaces en eaux permanentes - Résolution 20m - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.HR.WAW.CLC15"
+        },
+        {
+          "title": "Sylvoécorégions",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.SYLVOECOREGIONS"
+        },
+        {
+          "title": "Sylvoécorégions d'alluvions récentes",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDCOVER.SYLVOECOREGIONS.ALLUVIUM"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG)",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE.LATEST"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2007",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2007"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2008"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2009",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2009"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2010"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2011",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2011"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2012"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2013",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2013"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2014",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2014"
+        },
+        {
+          "title": "Registre parcellaire graphique 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2015"
+        },
+        {
+          "title": "Registre parcellaire graphique 2016",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2016"
+        },
+        {
+          "title": "Registre parcellaire graphique 2017",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2017"
+        },
+        {
+          "title": "Registre parcellaire graphique 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2018"
+        },
+        {
+          "title": "Registre parcellaire graphique 2019",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2019"
+        },
+        {
+          "title": "Registre parcellaire graphique 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2020"
+        },
+        {
+          "title": "Registre parcellaire graphique 2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2021"
+        },
+        {
+          "title": "Registre parcellaire graphique 2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2022"
+        },
+        {
+          "title": "Registre parcellaire graphique 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2023"
+        },
+        {
+          "title": "Registre parcellaire graphique 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#LANDUSE.AGRICULTURE2024"
+        },
+        {
+          "title": "Fouilles archéologiques le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LGV_EDUGEO_ARCHEOLOGIE_PYR-PNG_FXX_WM_20170210"
+        },
+        {
+          "title": "Faune le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LGV_EDUGEO_FAUNE_PYR-PNG_FXX_WM_20170215"
+        },
+        {
+          "title": "Flore le long de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LGV_EDUGEO_FLORE_PYR-PNG_FXX_WM_20170213"
+        },
+        {
+          "title": "Caractéristiques techniques de la LGV SEA.",
+          "resource": "wmts:https://data.geopf.fr/wmts#LGV_EDUGEO_TECHNIQUE_PYR-PNG_FXX_WM_20170215"
+        },
+        {
+          "title": "Limites administratives mises à jour en continu",
+          "resource": "wmts:https://data.geopf.fr/wmts#LIMITES_ADMINISTRATIVES_EXPRESS.LATEST"
+        },
+        {
+          "title": "Localisation des concessions hydroélectriques",
+          "resource": "wmts:https://data.geopf.fr/wmts#LOCALISATION.CONCESSIONS.HYDRO"
+        },
+        {
+          "title": "Localisation des mâts éolien",
+          "resource": "wmts:https://data.geopf.fr/wmts#LOCALISATION.MATS.EOLIEN"
+        },
+        {
+          "title": "Crues du bassin de la Seine - PHEC",
+          "resource": "wmts:https://data.geopf.fr/wmts#LSEP-CRUE_PYR-PNG_WLD_WM_EDUGEO_20130128"
+        },
+        {
+          "title": "MAJ_EVDC",
+          "resource": "wmts:https://data.geopf.fr/wmts#MAJ_EVDC"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Énergie",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_ENERGIE"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Paysage",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_PAYSAGE"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Projet",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_PROJET"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Risque",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_RISQUE"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Trame verte et bleue",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_TRAME-VERTE-BLEUE"
+        },
+        {
+          "title": "Métropole du Grand Paris - Planification - SCOT2023 - Transport",
+          "resource": "wmts:https://data.geopf.fr/wmts#MGP_PLANIFICATION_SCOT2023_TRANSPORT"
+        },
+        {
+          "title": "Crues du bassin de la Seine - PHEC",
+          "resource": "wmts:https://data.geopf.fr/wmts#NATURALRISKZONES.1910FLOODEDWATERSHEDS"
+        },
+        {
+          "title": "OCS GE 2016-2017 - artificialisation",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.ARTIF.2016-2017"
+        },
+        {
+          "title": "OCS GE 2017-2020 - artificialisation",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.ARTIF.2017-2020"
+        },
+        {
+          "title": "OCS GE 2021-2023 - artificialisation",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.ARTIF.2021-2023"
+        },
+        {
+          "title": "OCS GE 2016-2017 - zones construites",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.CONSTRUCTION.2016-2017"
+        },
+        {
+          "title": "OCS GE 2017-2020 - zones construites",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.CONSTRUCTION.2017-2020"
+        },
+        {
+          "title": "OCS GE 2021-2023 - zones construites",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.CONSTRUCTION.2021-2023"
+        },
+        {
+          "title": "Occupation du sol grande échelle - zones construites - ancienne génération",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.CONSTRUCTIONS"
+        },
+        {
+          "title": "Occupation du sol grande échelle - couverture - ancienne génération",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.COUVERTURE"
+        },
+        {
+          "title": "OCS GE 2016-2017 - couvertures",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.COUVERTURE.2016-2017"
+        },
+        {
+          "title": "OCS GE 2017-2020 - couvertures",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.COUVERTURE.2017-2020"
+        },
+        {
+          "title": "OCS GE 2021-2023 - couvertures",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.COUVERTURE.2021-2023"
+        },
+        {
+          "title": "Occupation du sol grande échelle - usage - ancienne génération",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.USAGE"
+        },
+        {
+          "title": "OCS GE 2016-2017 - usages",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.USAGE.2016-2017"
+        },
+        {
+          "title": "OCS GE 2017-2020 - usages",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.USAGE.2017-2020"
+        },
+        {
+          "title": "OCS GE 2021-2023 - usages",
+          "resource": "wmts:https://data.geopf.fr/wmts#OCSGE.USAGE.2021-2023"
+        },
+        {
+          "title": "OFB zonages exclus des aires d'accélération",
+          "resource": "wmts:https://data.geopf.fr/wmts#OFB.ZONES.EXCLUES"
+        },
+        {
+          "title": "OFB zonages exclus des aires d'accélération sauf toitures",
+          "resource": "wmts:https://data.geopf.fr/wmts#OFB.ZONES.EXCLUES.SAUF.TOITURE"
+        },
+        {
+          "title": "OFB zones nécessitant l'avis du gestionnaire",
+          "resource": "wmts:https://data.geopf.fr/wmts#OFB.ZONES.NECESSITANT.AVIS.GESTIONNAIRE"
+        },
+        {
+          "title": "Photographie - VANNES GOLFE DU MORBIHAN 1970",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHO-EDUGEO_PYR-PNG_WLD_WM"
+        },
+        {
+          "title": "Photographie - AJACCIO 1975",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.AJACCIO1975"
+        },
+        {
+          "title": "Photographie - AJACCIO 1990",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.AJACCIO1990"
+        },
+        {
+          "title": "SPOT ARCACHON 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.ARCACHON2010"
+        },
+        {
+          "title": "SPOT ARRAS LENS BETHUNE 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.ARRAS-LENS-BETHUNE2008"
+        },
+        {
+          "title": "Photographie - BELFORT MONTBELLIARD 1951",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BELFORT-MONTBELLIARD1951"
+        },
+        {
+          "title": "Photographie - BERRY SUD 1950",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BERRY-SUD1950"
+        },
+        {
+          "title": "Photographie - BERRY SUD 1970",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BERRY-SUD1970"
+        },
+        {
+          "title": "Photographie - BETHUNE 1963",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BETHUNE1963"
+        },
+        {
+          "title": "Photographie - BETHUNE 1964",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BETHUNE1964"
+        },
+        {
+          "title": "Photographie - BETHUNE 1988",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BETHUNE1988"
+        },
+        {
+          "title": "Photographie - Biarritz 1977",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BIARRITZ1977"
+        },
+        {
+          "title": "Photographie - BIARRTITZ 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BIARRTITZ1979"
+        },
+        {
+          "title": "SPOT BORDEAUX 2003",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BORDEAUX2003"
+        },
+        {
+          "title": "Photographie - BOURG SAINT MAURICE 1956",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.BOURG-ST-MAURICE1956"
+        },
+        {
+          "title": "Photographie - CAEN 1991",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CAEN1991"
+        },
+        {
+          "title": "Photographie - Le Cap d'Agde 1968",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CAP-D-AGDE1968"
+        },
+        {
+          "title": "SPOT Cap d'Agde 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CAP-D-AGDE2008"
+        },
+        {
+          "title": "Photographie - Le Cap d'Agde 1981",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CAP-DAGE1981"
+        },
+        {
+          "title": "Photographie - CLERMONT FERRAND 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CLERMONT-FERRAND1965"
+        },
+        {
+          "title": "Photographie - CLERMONT FERRAND 1985",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CLERMONT-FERRAND1985"
+        },
+        {
+          "title": "Photographie - CREIL SUD PICARDIE 1975",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.CREIL-SUD-PICARDIE1975"
+        },
+        {
+          "title": "Photographie - Dijon 1971",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.DIJON1971"
+        },
+        {
+          "title": "Photographie - Grenoble 1966",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.GRENOBLE1966"
+        },
+        {
+          "title": "Photographie - Grenoble 1989",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.GRENOBLE1989"
+        },
+        {
+          "title": "Photographie - GUADELOUPE 1984",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.GUADELOUPE1984"
+        },
+        {
+          "title": "Photographie - GUYANE 1955",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.GUYANE1955"
+        },
+        {
+          "title": "Photographie - LA REUNION 1961",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LA-REUNION1961"
+        },
+        {
+          "title": "Photographie - LA REUNION 1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LA-REUNION1980"
+        },
+        {
+          "title": "Photographie - LA REUNION 1989",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LA-REUNION1989"
+        },
+        {
+          "title": "SPOT Ls Réunion 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LA-REUNION2010"
+        },
+        {
+          "title": "Photographie - LA-ROCHELLE-ROCHEFORT 1973",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LA-ROCHELLE-ROCHEFORT1973"
+        },
+        {
+          "title": "Photographie - Le Havre 1955",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LE-HAVRE1955"
+        },
+        {
+          "title": "Photographie - Le Havre 1964",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LE-HAVRE1964"
+        },
+        {
+          "title": "SPOT LE HAVRE 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LE-HAVRE2008"
+        },
+        {
+          "title": "Photographie - Limoges 1974",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LIMOGES1974"
+        },
+        {
+          "title": "Photographie - LYON 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LYON1965"
+        },
+        {
+          "title": "Photographie - LYON 1984",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LYON1984"
+        },
+        {
+          "title": "Photographie - LYON 1988",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LYON1988"
+        },
+        {
+          "title": "SPOT LYON 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.LYON2008"
+        },
+        {
+          "title": "Photographie - Marne La Vallée 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARNE-LA-VALLEE1965"
+        },
+        {
+          "title": "Photographie - Marne La Vallée 1977",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARNE-LA-VALLEE1977"
+        },
+        {
+          "title": "Photographie - Marne la Vallée 1987",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARNE-LA-VALLEE1987"
+        },
+        {
+          "title": "Photographie - MARSEILLE MARTIGUES 1969",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARSEILLE-MARTIGUES1969"
+        },
+        {
+          "title": "Photographie - MARSEILLE MARTIGUES 1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARSEILLE-MARTIGUES1980"
+        },
+        {
+          "title": "Photographie - MARSEILLE MARTIGUES 1987",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARSEILLE-MARTIGUES1987"
+        },
+        {
+          "title": "Photographie - MARSEILLE MARTIGUES 1988",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARSEILLE-MARTIGUES1988"
+        },
+        {
+          "title": "SPOT MARSEILLE-MARTIGUES 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARSEILLE-MARTIGUES2010"
+        },
+        {
+          "title": "Photographie - La Martinique 1988",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.MARTINIQUE1988"
+        },
+        {
+          "title": "Photographie - METZ NANCY 1982",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.METZ-NANCY1982"
+        },
+        {
+          "title": "Photographie - Nantes 1971",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.NANTES1971"
+        },
+        {
+          "title": "Photographie - Paris 1949",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.PARIS1949"
+        },
+        {
+          "title": "Photographie - Paris 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.PARIS1965"
+        },
+        {
+          "title": "SPOT PARIS 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.PARIS2010SPOT"
+        },
+        {
+          "title": "Photographie - Reims 1963",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.REIMS1963"
+        },
+        {
+          "title": "Photographie - Reims 1973",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.REIMS1973"
+        },
+        {
+          "title": "Photographie - Reims 1988",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.REIMS1988"
+        },
+        {
+          "title": "SPOT REIMS 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.REIMS2010"
+        },
+        {
+          "title": "Photographie - ROISSY 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.ROISSY1965"
+        },
+        {
+          "title": "Photographie - ROISSY 1987",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.ROISSY1987"
+        },
+        {
+          "title": "Photographie - Strasbourg 1975",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.STRASBOURG1975"
+        },
+        {
+          "title": "Photographie - Strasbourg 1985",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.STRASBOURG1985"
+        },
+        {
+          "title": "SPOT STRASBOURG 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.STRASBOURG2010"
+        },
+        {
+          "title": "Photographie - TOULON-HYERES 1972",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.TOULON-HYERES1972"
+        },
+        {
+          "title": "Photographie -Toulouse 1954",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.TOULOUSE1954"
+        },
+        {
+          "title": "SPOT Vallée du Drac 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.VALEE-DU-DRAC2010"
+        },
+        {
+          "title": "Photographie - VANNES GOLFE DU MORBIHAN 1970",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.VANNES-GOLFE-DU-MORBIHAN1970"
+        },
+        {
+          "title": "Photographie - Versailles 1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.VERSAILLES1965"
+        },
+        {
+          "title": "Photographie - Versailles 1989",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.EDUGEO.VERSAILLES1989"
+        },
+        {
+          "title": "PLEIADES - 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2012"
+        },
+        {
+          "title": "PLEIADES - 2013",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2013"
+        },
+        {
+          "title": "PLEIADES - 2014",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2014"
+        },
+        {
+          "title": "PLEIADES - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2015"
+        },
+        {
+          "title": "PLEIADES - 2016",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2016"
+        },
+        {
+          "title": "PLEIADES - 2017",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2017"
+        },
+        {
+          "title": "PLEIADES - 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2018"
+        },
+        {
+          "title": "PLEIADES - 2019",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2019"
+        },
+        {
+          "title": "PLEIADES - 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2020"
+        },
+        {
+          "title": "PLEIADES - 2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2021"
+        },
+        {
+          "title": "PLEIADES - 2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2022"
+        },
+        {
+          "title": "PLEIADES - 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2023"
+        },
+        {
+          "title": "PLEIADES - 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2024"
+        },
+        {
+          "title": "PLEIADES - 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.2025"
+        },
+        {
+          "title": "Imagerie Pléiades sur Mayotte - juin 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.MAYOTTE.2024-06"
+        },
+        {
+          "title": "Imagerie Pléiades sur Mayotte - juin 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.PLEIADES.MAYOTTE.2025-06"
+        },
+        {
+          "title": "RAPIDEYE 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.RAPIDEYE.2010"
+        },
+        {
+          "title": "RAPIDEYE - 2011",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.RAPIDEYE.2011"
+        },
+        {
+          "title": "Millésime Spot 2013",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2013"
+        },
+        {
+          "title": "SPOT 6-7 - 2014",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2014"
+        },
+        {
+          "title": "SPOT 6-7 - 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2015"
+        },
+        {
+          "title": "SPOT 6-7 - 2016",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2016"
+        },
+        {
+          "title": "SPOT 6-7 - 2017",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2017"
+        },
+        {
+          "title": "SPOT 6-7 - 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2018"
+        },
+        {
+          "title": "SPOT 6-7 - 2019",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2019"
+        },
+        {
+          "title": "SPOT 6-7 - 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2020"
+        },
+        {
+          "title": "SPOT 6-7 - 2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2021"
+        },
+        {
+          "title": "SPOT 6-7 2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2022"
+        },
+        {
+          "title": "SPOT 6-7 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2023"
+        },
+        {
+          "title": "SPOT 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2024"
+        },
+        {
+          "title": "SPOT 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHO-SAT.SPOT.2025"
+        },
+        {
+          "title": "Zones interdites à la captation aérienne des données",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOS.RESTRICTEDAREAS"
+        },
+        {
+          "title": "Photographies aériennes",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS"
+        },
+        {
+          "title": "Photographies aériennes historiques 1950-1965",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.1950-1965"
+        },
+        {
+          "title": "Photographies aériennes historiques 1965-1980",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.1965-1980"
+        },
+        {
+          "title": "Photographies aériennes historiques 1980-1995",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.1980-1995"
+        },
+        {
+          "title": "Ortho 50 cm",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.BDORTHO"
+        },
+        {
+          "title": "Ortholittorale 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.COAST2000"
+        },
+        {
+          "title": "Suisse - photographies aériennes du canton de Genève (SITG)",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.GENEVE"
+        },
+        {
+          "title": "Données ortho-réctifiées antérieures au passage d'Irma",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ILESDUNORD"
+        },
+        {
+          "title": "BDORTHO en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC"
+        },
+        {
+          "title": "ortho-express IRC 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC-EXPRESS.2023"
+        },
+        {
+          "title": "Ortho-express IRC 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC-EXPRESS.2024"
+        },
+        {
+          "title": "Ortho-express IRC 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC-EXPRESS.2025"
+        },
+        {
+          "title": "BDORTHO 2012 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2012"
+        },
+        {
+          "title": "BDORTHO 2013 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2013"
+        },
+        {
+          "title": "BDORTHO 2014 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2014"
+        },
+        {
+          "title": "BDORTHO 2015 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2015"
+        },
+        {
+          "title": "BDORTHO 2016 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2016"
+        },
+        {
+          "title": "BDORTHO 2017 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2017"
+        },
+        {
+          "title": "BDORTHO 2018 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2018"
+        },
+        {
+          "title": "BDORTHO 2019 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2019"
+        },
+        {
+          "title": "BDORTHO 2020 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2020"
+        },
+        {
+          "title": "BDORTHO 2021 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2021"
+        },
+        {
+          "title": "BDORTHO 2022 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2022"
+        },
+        {
+          "title": "BDORTHO 2023 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2023"
+        },
+        {
+          "title": "BDORTHO 2024 en infrarouge fausses couleurs",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.IRC.2024"
+        },
+        {
+          "title": "Planet Observer",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.LOW_RES.CRS84"
+        },
+        {
+          "title": "BDORTHO-NC V2",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.NCL"
+        },
+        {
+          "title": "ORTHO-ASP_PAC2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2020"
+        },
+        {
+          "title": "ORTHO-ASP_PAC2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2021"
+        },
+        {
+          "title": "ORTHO-ASP_PAC2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2022"
+        },
+        {
+          "title": "ORTHO-ASP_PAC2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2024"
+        },
+        {
+          "title": "ORTHO-ASP_PAC2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2025"
+        },
+        {
+          "title": "Ortho ASP PAC 2026",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-ASP_PAC2026"
+        },
+        {
+          "title": "ortho-express 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-EXPRESS.2023"
+        },
+        {
+          "title": "Ortho-express 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-EXPRESS.2024"
+        },
+        {
+          "title": "Ortho-express RVB 2025",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.ORTHO-EXPRESS.2025"
+        },
+        {
+          "title": "Données ortho-réctifiées antérieures au passage d'Irma",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.PRE.IRMA"
+        },
+        {
+          "title": "GEOSUD / RapidEye (2011)",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.RAPIDEYE"
+        },
+        {
+          "title": "bdortho-asp ortho-socle 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.SOCLE-ASP.2018"
+        },
+        {
+          "title": "Spot 5",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.SPOT5"
+        },
+        {
+          "title": "Orthophotographie d’urgence Alex",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS.URGENCE.ALEX"
+        },
+        {
+          "title": "Photographies aériennes 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2000"
+        },
+        {
+          "title": "Photographies aériennes 2000-2005",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2000-2005"
+        },
+        {
+          "title": "Photographies aériennes 2001",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2001"
+        },
+        {
+          "title": "Photographies aériennes 2002",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2002"
+        },
+        {
+          "title": "Photographies aériennes 2003",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2003"
+        },
+        {
+          "title": "Photographies aériennes 2004",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2004"
+        },
+        {
+          "title": "Photographies aériennes 2005",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2005"
+        },
+        {
+          "title": "Photographies aériennes 2006",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2006"
+        },
+        {
+          "title": "Photographies aériennes 2006-2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2006-2010"
+        },
+        {
+          "title": "Photographies aériennes 2007",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2007"
+        },
+        {
+          "title": "Photographies aériennes 2008",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2008"
+        },
+        {
+          "title": "Photographies aériennes 2009",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2009"
+        },
+        {
+          "title": "Photographies aériennes 2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2010"
+        },
+        {
+          "title": "Photographies aériennes 2011",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2011"
+        },
+        {
+          "title": "Photographies aériennes 2011-2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2011-2015"
+        },
+        {
+          "title": "Photographies aériennes 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2012"
+        },
+        {
+          "title": "Photographies aériennes 2013",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2013"
+        },
+        {
+          "title": "Photographies aériennes 2014",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2014"
+        },
+        {
+          "title": "Photographies aériennes 2015",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2015"
+        },
+        {
+          "title": "Photographies aériennes 2016",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2016"
+        },
+        {
+          "title": "Photographies aériennes 2016-2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2016-2020"
+        },
+        {
+          "title": "Photographies aériennes 2017",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2017"
+        },
+        {
+          "title": "Photographies aériennes 2018",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2018"
+        },
+        {
+          "title": "Photographies aériennes 2019",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2019"
+        },
+        {
+          "title": "Photographies aériennes 2020",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2020"
+        },
+        {
+          "title": "Photographies aériennes 2021",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2021"
+        },
+        {
+          "title": "Photographies aériennes 2021-2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2021-2023"
+        },
+        {
+          "title": "Photographies aériennes 2022",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2022"
+        },
+        {
+          "title": "Photographies aériennes 2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2023"
+        },
+        {
+          "title": "Photographies aériennes 2024",
+          "resource": "wmts:https://data.geopf.fr/wmts#ORTHOIMAGERY.ORTHOPHOTOS2024"
+        },
+        {
+          "title": "PARCS-JARDINS 2021-2023",
+          "resource": "wmts:https://data.geopf.fr/wmts#PARCS-ET-JARDINS.2021-2023"
+        },
+        {
+          "title": "Parkings de plus de 500m²",
+          "resource": "wmts:https://data.geopf.fr/wmts#PARKING.SUP.500"
+        },
+        {
+          "title": "Puissance cumulée électrique installée par filière renouvelable par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PART.ENR.COMMUNE"
+        },
+        {
+          "title": "PCRS",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS.LAMB93"
+        },
+        {
+          "title": "PCRS86_blocA_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocA_80"
+        },
+        {
+          "title": "PCRS86_blocE_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocE_80"
+        },
+        {
+          "title": "PCRS86_blocG_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocG_80"
+        },
+        {
+          "title": "PCRS86_blocH_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocH_80"
+        },
+        {
+          "title": "PCRS86_blocI_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocI_80"
+        },
+        {
+          "title": "PCRS86_blocM_80",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_blocM_80"
+        },
+        {
+          "title": "PCRS86_maj2026_z8",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS86_maj2026_z8"
+        },
+        {
+          "title": "PCRS_34_2024_Bloc_B",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS_34_2024_Bloc_B"
+        },
+        {
+          "title": "PCRS_34_2024_Bloc_C",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS_34_2024_Bloc_C"
+        },
+        {
+          "title": "PCRS_CD34_2024_Bloc_B-C",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS_CD34_2024_Bloc_B-C"
+        },
+        {
+          "title": "PCRS_Metropole_Montpellier",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS_Metropole_Montpellier"
+        },
+        {
+          "title": "PCRS_chantier_D46_test_SDE22",
+          "resource": "wmts:https://data.geopf.fr/wmts#PCRS_chantier_D46_test_SDE22"
+        },
+        {
+          "title": "Plan IGN Lidar Sursol",
+          "resource": "wmts:https://data.geopf.fr/wmts#PLANIGN.LIDAR.SURSOL"
+        },
+        {
+          "title": "Plan IGN Lidar Terrain",
+          "resource": "wmts:https://data.geopf.fr/wmts#PLANIGN.LIDAR.TERRAIN"
+        },
+        {
+          "title": "Points d'injection de Biométhane en France en service",
+          "resource": "wmts:https://data.geopf.fr/wmts#POINTS.INJECTION.BIOMETHANE"
+        },
+        {
+          "title": "Potentiel éolien terrestre - couche \"clé en main\"",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.EOLIEN.REGLEMENTAIRE"
+        },
+        {
+          "title": "Potentiel géothermique en PACA",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.GEOTHERMIE"
+        },
+        {
+          "title": "Potentiel hydroélectrique sur nouveaux ouvrages",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.HYDRO"
+        },
+        {
+          "title": "Potentiel solaire sur toiture (méthode simplifiée)",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.BATIMENT"
+        },
+        {
+          "title": "Potentiel solaire au sol - friches susceptibles d'accueillir des installations photovoltaïques",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.FRICHE"
+        },
+        {
+          "title": "Unités foncières contenant des surfaces de stationnement non couvertes de plus de 500m²",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.PARKING500"
+        },
+        {
+          "title": "Unités foncières contenant des surfaces de stationnement non couvertes de plus de 500m² - multi-géométrie",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.PARKING500.MULTI"
+        },
+        {
+          "title": "Potentiel solaire sur le réseau routier national (DIR)",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.RRN"
+        },
+        {
+          "title": "Potentiel solaire sol",
+          "resource": "wmts:https://data.geopf.fr/wmts#POTENTIEL.SOLAIRE.SOL"
+        },
+        {
+          "title": "Préservation des prairies et pâturages permanents en zone Natura 2000",
+          "resource": "wmts:https://data.geopf.fr/wmts#PRAIRIES.SENSIBLES.BCAE"
+        },
+        {
+          "title": "Puissance cumulée installée des installations éoliennes par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PROD.INSTALLATION.EOLIEN"
+        },
+        {
+          "title": "Puissance cumulée installée des installations hydrauliques par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PROD.INSTALLATION.HYDRO"
+        },
+        {
+          "title": "Puissance cumulée installée des installations photovoltaïques par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PROD.INSTALLATION.PV"
+        },
+        {
+          "title": "Productible en injection de biométhane annuel par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PRODUCTIBLE.BIOMETHANE.COMMUNE"
+        },
+        {
+          "title": "Productible en éolien annuel par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PRODUCTIBLE.EOLIEN.COMMUNE"
+        },
+        {
+          "title": "Productible en méthanisation annuel par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PRODUCTIBLE.METHANISATION.COMMUNE"
+        },
+        {
+          "title": "Productible en photovoltaique annuel par commune",
+          "resource": "wmts:https://data.geopf.fr/wmts#PRODUCTIBLE.PHOTOVOLTAIQUE.COMMUNE"
+        },
+        {
+          "title": "Points de Rencontre de Secours en Forêt (PRSF)",
+          "resource": "wmts:https://data.geopf.fr/wmts#PROTECTEDAREAS.PRSF"
+        },
+        {
+          "title": "Puissances cumulées des installations par commune biométhane",
+          "resource": "wmts:https://data.geopf.fr/wmts#PUISSANCE.INSTALLEE.BIOMETHANE"
+        },
+        {
+          "title": "Puissances cumulées des installations par commune méthanisation",
+          "resource": "wmts:https://data.geopf.fr/wmts#PUISSANCE.INSTALLEE.METHANISATION"
+        },
+        {
+          "title": "PVA IGN : zone de marais de Virvée, 1945",
+          "resource": "wmts:https://data.geopf.fr/wmts#PVA_IGN_zone-marais-de-Virvee_1945"
+        },
+        {
+          "title": "PVA IGN : zone de marais de Virvée, 1956",
+          "resource": "wmts:https://data.geopf.fr/wmts#PVA_IGN_zone-marais-de-Virvee_1956"
+        },
+        {
+          "title": "PVA IGN : zone de marais de Virvée, 1976",
+          "resource": "wmts:https://data.geopf.fr/wmts#PVA_IGN_zone-marais-de-Virvee_1976"
+        },
+        {
+          "title": "PVA IGN : zone de marais de Virvée, 1984",
+          "resource": "wmts:https://data.geopf.fr/wmts#PVA_IGN_zone-marais-de-Virvee_1984"
+        },
+        {
+          "title": "Patrinat_APB",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_APB"
+        },
+        {
+          "title": "Patrinat_APG",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_APG"
+        },
+        {
+          "title": "Patrinat_APHN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_APHN"
+        },
+        {
+          "title": "Patrinat_APLG",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_APLG"
+        },
+        {
+          "title": "Patrinat_BIOS",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_BIOS"
+        },
+        {
+          "title": "Patrinat_BPM",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_BPM"
+        },
+        {
+          "title": "Patrinat_CDL",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_CDL"
+        },
+        {
+          "title": "Patrinat_CEN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_CEN"
+        },
+        {
+          "title": "Patrinat_GEOPARC",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_GEOPARC"
+        },
+        {
+          "title": "Patrinat_INPG",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_INPG"
+        },
+        {
+          "title": "Patrinat_PN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_PN"
+        },
+        {
+          "title": "Patrinat_PNM",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_PNM"
+        },
+        {
+          "title": "Patrinat_PNR",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_PNR"
+        },
+        {
+          "title": "Patrinat_PPRNN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_PPRNN"
+        },
+        {
+          "title": "Patrinat_RAMSAR",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RAMSAR"
+        },
+        {
+          "title": "Patrinat_RB",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RB"
+        },
+        {
+          "title": "Patrinat_RIPN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RIPN"
+        },
+        {
+          "title": "Patrinat_RNC",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RNC"
+        },
+        {
+          "title": "Patrinat_RNCFS",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RNCFS"
+        },
+        {
+          "title": "Patrinat_RNN",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RNN"
+        },
+        {
+          "title": "Patrinat_RNR",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_RNR"
+        },
+        {
+          "title": "Patrinat_SIC",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_SIC"
+        },
+        {
+          "title": "Patrinat_ZNIEFF1",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZNIEFF1"
+        },
+        {
+          "title": "Patrinat_ZNIEFF1_MER",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZNIEFF1_MER"
+        },
+        {
+          "title": "Patrinat_ZNIEFF2",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZNIEFF2"
+        },
+        {
+          "title": "Patrinat_ZNIEFF2_MER",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZNIEFF2_MER"
+        },
+        {
+          "title": "Patrinat_ZPR",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZPR"
+        },
+        {
+          "title": "Patrinat_ZPS",
+          "resource": "wmts:https://data.geopf.fr/wmts#Patrinat_ZPS"
+        },
+        {
+          "title": "GEOSUD / RapidEye (2010)",
+          "resource": "wmts:https://data.geopf.fr/wmts#RAPIDEYE_PYR-JPEG_WLD_WM_2010"
+        },
+        {
+          "title": "GEOSUD / RapidEye (2011)",
+          "resource": "wmts:https://data.geopf.fr/wmts#RAPIDEYE_PYR-JPEG_WLD_WM_2011"
+        },
+        {
+          "title": "Potentiel méthanisable par canton",
+          "resource": "wmts:https://data.geopf.fr/wmts#REPARTITION.POTENTIEL.METHANISATION.2050"
+        },
+        {
+          "title": "Registre parcellaire graphique (RPG) 2012",
+          "resource": "wmts:https://data.geopf.fr/wmts#RPG2012_PYR-PNG_WLD_EDUGEO_20170126"
+        },
+        {
+          "title": "Cartographie Le Havre 1979",
+          "resource": "wmts:https://data.geopf.fr/wmts#SCAN-EDUGEO_PYR-PNG_FXX_WM"
+        },
+        {
+          "title": "Tronçons routiers 1TE",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.1TE"
+        },
+        {
+          "title": "Tronçons routiers 2TE48",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.2TE48"
+        },
+        {
+          "title": "Tous les franchissements",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.ALL"
+        },
+        {
+          "title": "Franchissements ouvrage d'art",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.OA"
+        },
+        {
+          "title": "Franchissements passage à niveau",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.PN"
+        },
+        {
+          "title": "Franchissements passage à niveau difficile",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.PND"
+        },
+        {
+          "title": "Tronçons routiers TE120",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.TE120"
+        },
+        {
+          "title": "Tronçons routiers TE72",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.TE72"
+        },
+        {
+          "title": "Tronçons routiers TE94",
+          "resource": "wmts:https://data.geopf.fr/wmts#SECUROUTE.TE.TE94"
+        },
+        {
+          "title": "Localisation des installations de production de chaleur par Biogaz",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.BIOGAZ"
+        },
+        {
+          "title": "Localisation des installations de production d'électricité pouvant valoriser de la chaleur",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.COGENERATION"
+        },
+        {
+          "title": "Localisation des installations de production de chaleur par incinération des déchets",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.DECHETS"
+        },
+        {
+          "title": "Localisation des installations de production de chaleur par méthanisation",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.METHANISATON"
+        },
+        {
+          "title": "Localisation des réseaux de chaleur et de froid en France",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.RC"
+        },
+        {
+          "title": "Localisation des réseaux de chaleur et de froid linéaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.RCF.LINEAIRE"
+        },
+        {
+          "title": "Localisation des réseaux de chaleur et de froid ponctuels",
+          "resource": "wmts:https://data.geopf.fr/wmts#SITE.PRODUCTION.CHALEUR.RCF.POINT"
+        },
+        {
+          "title": "SPOT BORDEAUX 2003",
+          "resource": "wmts:https://data.geopf.fr/wmts#SPOT-EDUGEO_PYR-PNG_WLD_WM"
+        },
+        {
+          "title": "SPOT 5 sud-ouest 2009-2010",
+          "resource": "wmts:https://data.geopf.fr/wmts#SPOT5_PYR-JPEG_WLD_WM"
+        },
+        {
+          "title": "SYDESL 71 Orthophotographie 5 cm",
+          "resource": "wmts:https://data.geopf.fr/wmts#SYDESL_Orthophoto_5cm"
+        },
+        {
+          "title": "TEST_PBE_LE_HAVRE",
+          "resource": "wmts:https://data.geopf.fr/wmts#TEST_PBE_LE_HAVRE"
+        },
+        {
+          "title": "Photographies aériennes très haute résolution",
+          "resource": "wmts:https://data.geopf.fr/wmts#THR.ORTHOIMAGERY.ORTHOPHOTOS"
+        },
+        {
+          "title": "Routes",
+          "resource": "wmts:https://data.geopf.fr/wmts#TN.RoadTransportNetwork.RoadLink"
+        },
+        {
+          "title": "Protection des zones humides et des tourbières BCAE 2",
+          "resource": "wmts:https://data.geopf.fr/wmts#TOURBIERES_ZONES-HUMIDES.BCAE"
+        },
+        {
+          "title": "Trace de randonnée hivernale (à ski, à raquette)",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRACES.RANDO.HIVERNALE"
+        },
+        {
+          "title": "Points de repère routiers (PR)",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORK.COMMONTRANSPORTELEMENTS.MARKERPOST"
+        },
+        {
+          "title": "Points de repère routiers (PR)",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORK.COMMONTRANSPORTELEMENTS.MARKERPOST_VISU"
+        },
+        {
+          "title": "Voie ferrée",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORKS.RAILWAYS"
+        },
+        {
+          "title": "Routes",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORKS.ROADS"
+        },
+        {
+          "title": "Sens de circulation",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORKS.ROADS.DIRECTION"
+        },
+        {
+          "title": "Aéroports",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTNETWORKS.RUNWAYS"
+        },
+        {
+          "title": "Restrictions UAS catégorie Ouverte et Aéromodélisme",
+          "resource": "wmts:https://data.geopf.fr/wmts#TRANSPORTS.DRONES.RESTRICTIONS"
+        },
+        {
+          "title": "Réseau électrique",
+          "resource": "wmts:https://data.geopf.fr/wmts#UTILITYANDGOVERNMENTALSERVICES.ALL"
+        },
+        {
+          "title": "BEZIERS-COLOMBIERS_2022110638503087 -- ortho - WMTS",
+          "resource": "wmts:https://data.geopf.fr/wmts#WMTS_BEZIERS-COLOMBIERS_2022110638503087"
+        },
+        {
+          "title": "Zones à prospecter pour les forêts subnaturelles",
+          "resource": "wmts:https://data.geopf.fr/wmts#ZONES-A-PROSPECTER-FORETS-SUBNATURELLES"
+        },
+        {
+          "title": "ZZZ_Test_NL_17_pyr_1_2",
+          "resource": "wmts:https://data.geopf.fr/wmts#ZZZ_Test_NL_17_pyr_1_2"
+        },
+        {
+          "title": "ZZZ_Test_NL_17_pyr_2",
+          "resource": "wmts:https://data.geopf.fr/wmts#ZZZ_Test_NL_17_pyr_2"
+        },
+        {
+          "title": "adminexpress-dep-test-wmts--jpb",
+          "resource": "wmts:https://data.geopf.fr/wmts#adminexpress-kdep-jpb-test-raster_wmts"
+        },
+        {
+          "title": "flux_1401_test_composition_cacheqgis_baptisee",
+          "resource": "wmts:https://data.geopf.fr/wmts#flux_1401_test_composition_cacheqgis_baptisee"
+        },
+        {
+          "title": "haies linéaires",
+          "resource": "wmts:https://data.geopf.fr/wmts#hedge.hedge"
+        },
+        {
+          "title": "Photographie aérienne - BD ORTHO® Historique 1947 - Calvados",
+          "resource": "wmts:https://data.geopf.fr/wmts#orthophoto_1947_calvados"
+        },
+        {
+          "title": "Photographie aérienne - BD ORTHO® Historique 1955 - Calvados",
+          "resource": "wmts:https://data.geopf.fr/wmts#orthophoto_1955_calvados"
+        },
+        {
+          "title": "Photographie aérienne - BD ORTHO® Historique 1972 - Calvados",
+          "resource": "wmts:https://data.geopf.fr/wmts#orthophoto_1972_calvados"
+        },
+        {
+          "title": "Photographie aérienne - BD ORTHO® Historique 1984 - Calvados",
+          "resource": "wmts:https://data.geopf.fr/wmts#orthophoto_1984_calvados"
+        },
+        {
+          "title": "Photographie aérienne - BD ORTHO® Historique 1991 - Calvados",
+          "resource": "wmts:https://data.geopf.fr/wmts#orthophoto_1991_calvados"
+        },
+        {
+          "title": "PCRS Metropole Aix Marseille Provence MartiguesTest",
+          "resource": "wmts:https://data.geopf.fr/wmts#pcrs_metropole_aix_marseille_provence_Martigues_test"
+        },
+        {
+          "title": "VSR plugin Qgis Geoplateforme WMTS",
+          "resource": "wmts:https://data.geopf.fr/wmts#route500logoplugin_WMTS"
+        }
+      ]
+    },
+    {
       "title": "Catalogue EMS",
       "sublayers": [
         {
+          "title": "défaut",
+          "resource": "wms:https://whsiglw.cus.fr/qgis/defaut#defaut"
+        },
+        {
           "title": "Signalement d'anomalies sur les données géographiques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/alert_signalement_geo#alert_signalement_geo"
+          "resource": "wms:https://whsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo"
         },
         {
           "title": "Les locaux dans les écoles",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_locaux_ecoles#patri_locaux_ecoles"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_locaux_ecoles#patri_locaux_ecoles"
         },
         {
           "title": "Panneaux d'information totem",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_totem#patri_totem"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_totem#patri_totem"
         },
         {
           "title": "Documentation du patrimoine bâti",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_documentation_pat_bati#patri_documentation_pat_bati"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_documentation_pat_bati#patri_documentation_pat_bati"
         },
         {
           "title": "Le patrimoine bâti de l'EMS",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_patrimoine_bati#patri_patrimoine_bati"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_patrimoine_bati#patri_patrimoine_bati"
         },
         {
           "title": "Données GIMA du patrimoine de l'EMS",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_donnees_gima#patri_donnees_gima"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_donnees_gima#patri_donnees_gima"
         },
         {
           "title": "Patrimoine bâti par type de bâtiments",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_bati_type_batiment#patri_bati_type_batiment"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_bati_type_batiment#patri_bati_type_batiment"
         },
         {
           "title": "Patrimoine bâti par type de propriétés",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_bati_type_propriete#patri_bati_type_propriete"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_bati_type_propriete#patri_bati_type_propriete"
         },
         {
           "title": "Plan cadastral EMS",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_plan_cadastral_ems#fonci_plan_cadastral_ems"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_plan_cadastral_ems#fonci_plan_cadastral_ems"
         },
         {
           "title": "Propriétaires institutionnels",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_proprietaire_institutionnel#fonci_proprietaire_institutionnel"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_proprietaire_institutionnel#fonci_proprietaire_institutionnel"
         },
         {
           "title": "Services gestionnaires des propriétés foncières Ville et EMS",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_propriete_fonciere_service_gesti#fonci_propriete_fonciere_service_gesti"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_service_gesti#fonci_propriete_fonciere_service_gesti"
         },
         {
           "title": "PFI - Terrains disponibles",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_propriete_fonciere_terrain_dispo#fonci_propriete_fonciere_terrain_dispo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_terrain_dispo#fonci_propriete_fonciere_terrain_dispo"
         },
         {
           "title": "PFI - Fauchage",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_propriete_fonciere_fauchage#fonci_propriete_fonciere_fauchage"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_fauchage#fonci_propriete_fonciere_fauchage"
         },
         {
           "title": "Référentiel parcellaire graphique (ilots PAC)",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_agriculture_pac#fonci_agriculture_pac"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_agriculture_pac#fonci_agriculture_pac"
         },
         {
           "title": "Domanialité publique - Situation foncière et compétence",
-          "resource": "wms:https://whsiglw.cus.fr/ows/fonci_dp_situation_competence#fonci_dp_situation_competence"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_dp_situation_competence#fonci_dp_situation_competence"
         },
         {
           "title": "Cadastre - Vues",
-          "resource": "wms:https://whsiglw.cus.fr/ows/CONSULT_plan_cadastral_EMS_vues#CONSULT_plan_cadastral_EMS_vues"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/CONSULT_plan_cadastral_EMS_vues#CONSULT_plan_cadastral_EMS_vues"
         },
         {
           "title": "Cadastre allemand 1889",
-          "resource": "wms:https://whsiglw.cus.fr/ows/histo_cadastre_allemand#histo_cadastre_allemand"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_cadastre_allemand#histo_cadastre_allemand"
         },
         {
           "title": "Cadastre napoléonien 1840",
-          "resource": "wms:https://whsiglw.cus.fr/ows/histo_cadastre_napoleonien#histo_cadastre_napoleonien"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_cadastre_napoleonien#histo_cadastre_napoleonien"
         },
         {
           "title": "Cartes historiques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/histo_fonds_historiques#histo_fonds_historiques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_fonds_historiques#histo_fonds_historiques"
         },
         {
           "title": "Plan relief de 1725",
-          "resource": "wms:https://whsiglw.cus.fr/ows/histo_plan_relief_1725#histo_plan_relief_1725"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_plan_relief_1725#histo_plan_relief_1725"
         },
         {
           "title": "Logements sociaux",
-          "resource": "wms:https://whsiglw.cus.fr/ows/habit_logements_sociaux#habit_logements_sociaux"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/habit_logements_sociaux#habit_logements_sociaux"
         },
         {
           "title": "Limites des découpages électoraux",
-          "resource": "wms:https://whsiglw.cus.fr/ows/limit_election_bv#limit_election_bv"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_election_bv#limit_election_bv"
         },
         {
           "title": "Limites administratives diverses",
-          "resource": "wms:https://whsiglw.cus.fr/ows/limit_limites_administratives#limit_limites_administratives"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_limites_administratives#limit_limites_administratives"
         },
         {
           "title": "Géographies prioritaires 2015-2023",
-          "resource": "wms:https://whsiglw.cus.fr/ows/limit_geographie_prioritaire_15_23#limit_geographie_prioritaire_15_23"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_geographie_prioritaire_15_23#limit_geographie_prioritaire_15_23"
         },
         {
           "title": "Géographies prioritaires 2024-2030",
-          "resource": "wms:https://whsiglw.cus.fr/ows/limit_geographie_prioritaire_24_30#limit_geographie_prioritaire_24_30"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_geographie_prioritaire_24_30#limit_geographie_prioritaire_24_30"
         },
         {
           "title": "Transports en commun",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_transport_en_commun#mobil_transport_en_commun"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_transport_en_commun#mobil_transport_en_commun"
         },
         {
           "title": "Stationnement des véhicules",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_stationnement_vehicules#mobil_stationnement_vehicules"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_stationnement_vehicules#mobil_stationnement_vehicules"
         },
         {
           "title": "Hiérarchisation des voies",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_hierarchisation_voies#mobil_hierarchisation_voies"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_hierarchisation_voies#mobil_hierarchisation_voies"
         },
         {
           "title": "Zones de stationnement payant",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_stationnement_zones#mobil_stationnement_zones"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_stationnement_zones#mobil_stationnement_zones"
         },
         {
           "title": "Aménagements cyclables réalisés et en projet",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_amgt_cyclable#mobil_amgt_cyclable"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_amgt_cyclable#mobil_amgt_cyclable"
         },
         {
           "title": "Mesure du trafic",
-          "resource": "wms:https://whsiglw.cus.fr/ows/mobil_trafic#mobil_trafic"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_trafic#mobil_trafic"
         },
         {
           "title": "Trames verte et bleue",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_trames_verte_bleue#natur_trames_verte_bleue"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_trames_verte_bleue#natur_trames_verte_bleue"
         },
         {
           "title": "Tissu naturel urbain",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_tissu_naturel_urbain#natur_tissu_naturel_urbain"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_tissu_naturel_urbain#natur_tissu_naturel_urbain"
         },
         {
           "title": "Plan canopée",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_plan_canopee#natur_plan_canopee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_plan_canopee#natur_plan_canopee"
         },
         {
           "title": "Trame nocturne",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_trame_nocturne#natur_trame_nocturne"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_trame_nocturne#natur_trame_nocturne"
         },
         {
           "title": "Zones humides",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_zones_humides#natur_zones_humides"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_zones_humides#natur_zones_humides"
         },
         {
           "title": "Natura 2000",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_natura2000#natur_natura2000"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_natura2000#natur_natura2000"
         },
         {
           "title": "Grand hamster d'Alsace",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_grand_hamster#natur_grand_hamster"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_grand_hamster#natur_grand_hamster"
         },
         {
           "title": "Nichoirs",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_nichoir#natur_nichoir"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_nichoir#natur_nichoir"
         },
         {
           "title": "Patrimoine arboré",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_patri_arbore#natur_patri_arbore"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_patri_arbore#natur_patri_arbore"
         },
         {
           "title": "Arbres - Etat sanitaire",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_arbre_etat_sanitaire#natur_arbre_etat_sanitaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_arbre_etat_sanitaire#natur_arbre_etat_sanitaire"
         },
         {
           "title": "Arbres - Plantation",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_arbre_plantation#natur_arbre_plantation"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_arbre_plantation#natur_arbre_plantation"
         },
         {
           "title": "Arbres - Nettoyage entreprises",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_nett_entreprise#natur_nett_entreprise"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_nett_entreprise#natur_nett_entreprise"
         },
         {
           "title": "Espaces verts - Fleurissement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_fleurissement#natur_fleurissement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_fleurissement#natur_fleurissement"
         },
         {
           "title": "Espaces verts - Jardins familiaux",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_jardin_familial#natur_jardin_familial"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_jardin_familial#natur_jardin_familial"
         },
         {
           "title": "Gestion différenciée des espaces verts",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_gestion_differenciee#natur_gestion_differenciee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_gestion_differenciee#natur_gestion_differenciee"
         },
         {
           "title": "Gestion des espaces verts",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_gestion_ev#natur_gestion_ev"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_gestion_ev#natur_gestion_ev"
         },
         {
           "title": "OCS EMS 2012 Végétation à grande échelle",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_ocs_vegetation_ems_2012#natur_ocs_vegetation_ems_2012"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_ocs_vegetation_ems_2012#natur_ocs_vegetation_ems_2012"
         },
         {
           "title": "OCS EMS 2017 Végétation à grande échelle",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_ocs_vegetation_ems_2017#natur_ocs_vegetation_ems_2017"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_ocs_vegetation_ems_2017#natur_ocs_vegetation_ems_2017"
         },
         {
           "title": "Zones de fauchage des abords de pistes cyclables",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_fauchage_pistes#natur_fauchage_pistes"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_fauchage_pistes#natur_fauchage_pistes"
         },
         {
           "title": "Expertise de prestations écologiques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_presta_ecologique#natur_presta_ecologique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_presta_ecologique#natur_presta_ecologique"
         },
         {
           "title": "Secteurs Patrimoine Arboré (SEVN)",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_secteur_gpa#natur_secteur_gpa"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_secteur_gpa#natur_secteur_gpa"
         },
         {
           "title": "Secteurs Espaces Verts Urbains (SEVN)",
-          "resource": "wms:https://whsiglw.cus.fr/ows/natur_secteur_evu#natur_secteur_evu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_secteur_evu#natur_secteur_evu"
         },
         {
           "title": "Terrasses (bars et restaurants) ",
-          "resource": "wms:https://whsiglw.cus.fr/ows/occup_terrasses#occup_terrasses"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/occup_terrasses#occup_terrasses"
         },
         {
           "title": "PAV et composteurs publics",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_points_apport_volontaire#propr_points_apport_volontaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_points_apport_volontaire#propr_points_apport_volontaire"
         },
         {
           "title": "PAV privés",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_points_apport_volontaire_restreint#propr_points_apport_volontaire_restreint"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_points_apport_volontaire_restreint#propr_points_apport_volontaire_restreint"
         },
         {
           "title": "Thématique canine",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_thematique_canine#propr_thematique_canine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_thematique_canine#propr_thematique_canine"
         },
         {
           "title": "Toilettes publiques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_toilettes_publiques#propr_toilettes_publiques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_toilettes_publiques#propr_toilettes_publiques"
         },
         {
           "title": "Corbeilles de propreté",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_corbeille#propr_corbeille"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_corbeille#propr_corbeille"
         },
         {
           "title": "Collecte / Tournée",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_collecte_dechet_tournee#propr_collecte_dechet_tournee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_tournee#propr_collecte_dechet_tournee"
         },
         {
           "title": "Collecte / Jour",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_collecte_dechet_jour#propr_collecte_dechet_jour"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_jour#propr_collecte_dechet_jour"
         },
         {
           "title": "Collecte / Resp. secteur",
-          "resource": "wms:https://whsiglw.cus.fr/ows/propr_collecte_dechet_responsable#propr_collecte_dechet_responsable"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_responsable#propr_collecte_dechet_responsable"
         },
         {
           "title": "Fond de carte gris",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_fond_gris#refer_fond_gris"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_fond_gris#refer_fond_gris"
         },
         {
           "title": "Fond de carte couleur",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_fond_couleur#refer_fond_couleur"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_fond_couleur#refer_fond_couleur"
         },
         {
           "title": "Vues immersives 360",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_image360#refer_image360"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_image360#refer_image360"
         },
         {
           "title": "Filaire de circulation",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_filaire#refer_filaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_filaire#refer_filaire"
         },
         {
           "title": "Ortho-photographie nocturne",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_ortho_nocturne#refer_ortho_nocturne"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_ortho_nocturne#refer_ortho_nocturne"
         },
         {
           "title": "Fond OpenStreetMap",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_osm_xyz#refer_osm_xyz"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_osm_xyz#refer_osm_xyz"
         },
         {
           "title": "Images satellites",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_satellite#refer_satellite"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_satellite#refer_satellite"
         },
         {
           "title": "Ortho photographie 2022",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_ortho2022#refer_ortho2022"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_ortho2022#refer_ortho2022"
         },
         {
           "title": "Autres images aériennes",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_images_aeriennes#refer_images_aeriennes"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_images_aeriennes#refer_images_aeriennes"
         },
         {
           "title": "Points de canevas plani et altimétriques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_point_canevas#refer_point_canevas"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_point_canevas#refer_point_canevas"
         },
         {
           "title": "Données de gestion de la BD RTGE",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_gestion_BD_RTGE#refer_gestion_BD_RTGE"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_gestion_BD_RTGE#refer_gestion_BD_RTGE"
         },
         {
           "title": "Données altimétriques (LIDAR 2025)",
-          "resource": "wms:https://whsiglw.cus.fr/ows/refer_donnees_lidar#refer_donnees_lidar"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_donnees_lidar#refer_donnees_lidar"
         },
         {
           "title": "Réseau de chaleur",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_reseau_chaleur#resea_reseau_chaleur"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_reseau_chaleur#resea_reseau_chaleur"
         },
         {
           "title": "Réseau d'eau potable",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_aep_patrimoine#resea_aep_patrimoine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_aep_patrimoine#resea_aep_patrimoine"
         },
         {
           "title": "Réseau d'assainissement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_ass_patrimoine#resea_ass_patrimoine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_ass_patrimoine#resea_ass_patrimoine"
         },
         {
           "title": "Réseaux électriques et gaz - ORE",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_reseaux_ore#resea_reseaux_ore"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_reseaux_ore#resea_reseaux_ore"
         },
         {
           "title": "Patrimoine de l'éclairage public",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_eclairage_public#resea_eclairage_public"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_eclairage_public#resea_eclairage_public"
         },
         {
           "title": "Réseau Sirac",
-          "resource": "wms:https://whsiglw.cus.fr/ows/resea_sirac#resea_sirac"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_sirac#resea_sirac"
         },
         {
           "title": "Cavités souterraines",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_cavites#secur_cavites"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_cavites#secur_cavites"
         },
         {
           "title": "Plan de prévention des risques inondation",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_ppri#secur_ppri"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_ppri#secur_ppri"
         },
         {
           "title": "Hébergement de secours",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_hebergement_secours#secur_hebergement_secours"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_hebergement_secours#secur_hebergement_secours"
         },
         {
           "title": "ERP sensibles",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_erp_sensible#secur_erp_sensible"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_erp_sensible#secur_erp_sensible"
         },
         {
           "title": "Recensement des sites et sols pollués",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_sites_et_sols_pollues#secur_sites_et_sols_pollues"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_sites_et_sols_pollues#secur_sites_et_sols_pollues"
         },
         {
           "title": "Sirènes d'alerte",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_sirene_alerte#secur_sirene_alerte"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_sirene_alerte#secur_sirene_alerte"
         },
         {
           "title": "Plan iode",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_plan_iode#secur_plan_iode"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_plan_iode#secur_plan_iode"
         },
         {
           "title": "Plan variole",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_plan_variole#secur_plan_variole"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_plan_variole#secur_plan_variole"
         },
         {
           "title": "Plan d'exposition au bruit et Plan de gêne sonore",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_peb_pgs#secur_peb_pgs"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_peb_pgs#secur_peb_pgs"
         },
         {
           "title": "Risques technologiques - PPRT et PAC",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_risques_techno#secur_risques_techno"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_risques_techno#secur_risques_techno"
         },
         {
           "title": "Niveaux de nappe phréatique",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_niveau_nappe#secur_niveau_nappe"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_niveau_nappe#secur_niveau_nappe"
         },
         {
           "title": "Qualité de l'air",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_qualite_air#secur_qualite_air"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_qualite_air#secur_qualite_air"
         },
         {
           "title": "Drone : réglementation et zones de levé",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_autorisations_drones#secur_autorisations_drones"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_autorisations_drones#secur_autorisations_drones"
         },
         {
           "title": "Système d'endiguement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/secur_syst_digue#secur_syst_digue"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_syst_digue#secur_syst_digue"
         },
         {
           "title": "Etablissements et secteurs scolaires",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_etabts_et_secteurs_scolaires#socie_etabts_et_secteurs_scolaires"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_etabts_et_secteurs_scolaires#socie_etabts_et_secteurs_scolaires"
         },
         {
           "title": "IRIS - EMS et ALSACE",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_iris#socie_iris"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_iris#socie_iris"
         },
         {
           "title": "Points d'eau",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_point_deau#socie_point_deau"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_point_deau#socie_point_deau"
         },
         {
           "title": "Territoires DSSJ",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_territoire_DSSJ#socie_territoire_DSSJ"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_territoire_DSSJ#socie_territoire_DSSJ"
         },
         {
           "title": "Equipements - Commerces - Services",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_bd_ecoms#socie_bd_ecoms"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_bd_ecoms#socie_bd_ecoms"
         },
         {
           "title": "Socle des indicateurs socio-démographiques 2021",
-          "resource": "wms:https://whsiglw.cus.fr/ows/socie_ind_socio_demo#socie_ind_socio_demo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_ind_socio_demo#socie_ind_socio_demo"
         },
         {
           "title": "Vitaboucle et aires d'agrès",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_vitaboucle#loisi_vitaboucle"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_vitaboucle#loisi_vitaboucle"
         },
         {
           "title": "Médiathèques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_mediatheques#loisi_mediatheques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_mediatheques#loisi_mediatheques"
         },
         {
           "title": "Restaurants agréés Ville et Eurométropole",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_restaurant_agree#loisi_restaurant_agree"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_restaurant_agree#loisi_restaurant_agree"
         },
         {
           "title": "Aire de Jeux Sports et Fitness",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_aires_jeux_sportives_equipements#loisi_aires_jeux_sportives_equipements"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_aires_jeux_sportives_equipements#loisi_aires_jeux_sportives_equipements"
         },
         {
           "title": "Equipements sportifs",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_activites_sportives#loisi_activites_sportives"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_activites_sportives#loisi_activites_sportives"
         },
         {
           "title": "Patrimoine culturel des quartiers de Strasbourg",
-          "resource": "wms:https://whsiglw.cus.fr/ows/loisi_patrimoine_quartier#loisi_patrimoine_quartier"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_patrimoine_quartier#loisi_patrimoine_quartier"
         },
         {
           "title": "PLU - Règlement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_reglement#urban_plu_reglement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_reglement#urban_plu_reglement"
         },
         {
           "title": "Annexe PLU - Droit de préemption urbain",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_dpu#urban_plu_annexe_dpu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_dpu#urban_plu_annexe_dpu"
         },
         {
           "title": "Annexe PLU - Orientations d'aménagement de de programmation",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_oap#urban_plu_annexe_oap"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_oap#urban_plu_annexe_oap"
         },
         {
           "title": "Annexe PLU - Zones de stationnement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_stationnement#urban_plu_annexe_stationnement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_stationnement#urban_plu_annexe_stationnement"
         },
         {
           "title": "Annexe PLU - Plan de vigilance",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_vigilance#urban_plu_annexe_vigilance"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_vigilance#urban_plu_annexe_vigilance"
         },
         {
           "title": "Annexe PLU - Ceinture verte",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_ceinture_verte#urban_plu_annexe_ceinture_verte"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_ceinture_verte#urban_plu_annexe_ceinture_verte"
         },
         {
           "title": "Annexe PLU - Périmètres des taxes d'aménagement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_annexe_ta#urban_plu_annexe_ta"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_ta#urban_plu_annexe_ta"
         },
         {
           "title": "Contours historiques de la Ceinture verte",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_ceinture_verte_historique#urban_ceinture_verte_historique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_ceinture_verte_historique#urban_ceinture_verte_historique"
         },
         {
           "title": "Monuments historiques",
-          "resource": "wms:https://whsiglw.cus.fr/ows/patri_monument_historique#patri_monument_historique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_monument_historique#patri_monument_historique"
         },
         {
           "title": "Projets urbains",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_projet_urbain#urban_projet_urbain"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_projet_urbain#urban_projet_urbain"
         },
         {
           "title": "Règlement local de publicité intercommunal",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_plu_rlpi#urban_plu_rlpi"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_rlpi#urban_plu_rlpi"
         },
         {
           "title": "Zones d'activités existantes",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_zae#urban_zae"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_zae#urban_zae"
         },
         {
           "title": "Archéologie préventive",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_archeologie_preventive#urban_archeologie_preventive"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_archeologie_preventive#urban_archeologie_preventive"
         },
         {
           "title": "PSMV - Règlement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_psmv_reglement#urban_psmv_reglement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_psmv_reglement#urban_psmv_reglement"
         },
         {
           "title": "Permis de construire produisant plus de 6 logements",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_pc_6_12_logements#urban_pc_6_12_logements"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_pc_6_12_logements#urban_pc_6_12_logements"
         },
         {
           "title": "Végétation de plus de 20m de haut dans la ceinture verte",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_cv_veget_20m#urban_cv_veget_20m"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_cv_veget_20m#urban_cv_veget_20m"
         },
         {
           "title": "Edifices de la Neustadt",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_edifices_neustadt#urban_edifices_neustadt"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_edifices_neustadt#urban_edifices_neustadt"
         },
         {
           "title": "Potentiel de surélévation du bâti",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_bati_surelevation#urban_bati_surelevation"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_bati_surelevation#urban_bati_surelevation"
         },
         {
           "title": "Servitudes d'utilité publique",
-          "resource": "wms:https://whsiglw.cus.fr/ows/urban_sup#urban_sup"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_sup#urban_sup"
         },
         {
           "title": "Point de repère routier",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_point_repere#voiri_point_repere"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_point_repere#voiri_point_repere"
         },
         {
           "title": "État des chaussées, voies cyclables, et dépendances",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_etat#voiri_etat"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_etat#voiri_etat"
         },
         {
           "title": "Anomalies sur l'espace public pour l'accessibilité aux PMR",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_anomalies_acces_pmr#voiri_anomalies_acces_pmr"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_anomalies_acces_pmr#voiri_anomalies_acces_pmr"
         },
         {
           "title": "Programmation opérations sur l'espace public",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_programmation_esp_pub#voiri_programmation_esp_pub"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_programmation_esp_pub#voiri_programmation_esp_pub"
         },
         {
           "title": "Voirie : Signalisation horizontale",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_signal_horizontale#voiri_signal_horizontale"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_signal_horizontale#voiri_signal_horizontale"
         },
         {
           "title": "Voirie : Signalisation verticale",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_signal_verticale#voiri_signal_verticale"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_signal_verticale#voiri_signal_verticale"
         },
         {
           "title": "Gestionnaires Voies publiques - En et hors agglo",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_gestion#voiri_gestion"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_gestion#voiri_gestion"
         },
         {
           "title": "Stationnement vélo",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_station_velo#voiri_station_velo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_station_velo#voiri_station_velo"
         },
         {
           "title": "[Voies Publiques] - Opération d'aménagement",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_operation_esp_pub#voiri_operation_esp_pub"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_operation_esp_pub#voiri_operation_esp_pub"
         },
         {
           "title": "Routes à grande circulation",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_rte_grande_circu#voiri_rte_grande_circu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_rte_grande_circu#voiri_rte_grande_circu"
         },
         {
           "title": "Localisation des ouvrages d'art",
-          "resource": "wms:https://whsiglw.cus.fr/ows/voiri_ouvrages_art#voiri_ouvrages_art"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_ouvrages_art#voiri_ouvrages_art"
         }
       ]
     }
