@@ -5,547 +5,547 @@
       "sublayers": [
         {
           "title": "Signalement d'anomalies sur les données géographiques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/alert_signalement_geo#alert_signalement_geo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo"
         },
         {
           "title": "Les locaux dans les écoles",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_locaux_ecoles#patri_locaux_ecoles"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_locaux_ecoles#patri_locaux_ecoles"
         },
         {
           "title": "Panneaux d'information totem",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_totem#patri_totem"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_totem#patri_totem"
         },
         {
           "title": "Documentation du patrimoine bâti",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_documentation_pat_bati#patri_documentation_pat_bati"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_documentation_pat_bati#patri_documentation_pat_bati"
         },
         {
           "title": "Le patrimoine bâti de l'EMS",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_patrimoine_bati#patri_patrimoine_bati"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_patrimoine_bati#patri_patrimoine_bati"
         },
         {
           "title": "Données GIMA du patrimoine de l'EMS",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_donnees_gima#patri_donnees_gima"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_donnees_gima#patri_donnees_gima"
         },
         {
           "title": "Patrimoine bâti par type de bâtiments",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_bati_type_batiment#patri_bati_type_batiment"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_bati_type_batiment#patri_bati_type_batiment"
         },
         {
           "title": "Patrimoine bâti par type de propriétés",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_bati_type_propriete#patri_bati_type_propriete"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_bati_type_propriete#patri_bati_type_propriete"
         },
         {
           "title": "Plan cadastral EMS",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_plan_cadastral_ems#fonci_plan_cadastral_ems"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_plan_cadastral_ems#fonci_plan_cadastral_ems"
         },
         {
           "title": "Propriétaires institutionnels",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_proprietaire_institutionnel#fonci_proprietaire_institutionnel"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_proprietaire_institutionnel#fonci_proprietaire_institutionnel"
         },
         {
           "title": "Services gestionnaires des propriétés foncières Ville et EMS",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_propriete_fonciere_service_gesti#fonci_propriete_fonciere_service_gesti"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_service_gesti#fonci_propriete_fonciere_service_gesti"
         },
         {
           "title": "PFI - Terrains disponibles",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_propriete_fonciere_terrain_dispo#fonci_propriete_fonciere_terrain_dispo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_terrain_dispo#fonci_propriete_fonciere_terrain_dispo"
         },
         {
           "title": "PFI - Fauchage",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_propriete_fonciere_fauchage#fonci_propriete_fonciere_fauchage"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_propriete_fonciere_fauchage#fonci_propriete_fonciere_fauchage"
         },
         {
           "title": "Référentiel parcellaire graphique (ilots PAC)",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_agriculture_pac#fonci_agriculture_pac"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_agriculture_pac#fonci_agriculture_pac"
         },
         {
           "title": "Domanialité publique - Situation foncière et compétence",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/fonci_dp_situation_competence#fonci_dp_situation_competence"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/fonci_dp_situation_competence#fonci_dp_situation_competence"
         },
         {
           "title": "Cadastre - Vues",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/CONSULT_plan_cadastral_EMS_vues#CONSULT_plan_cadastral_EMS_vues"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/CONSULT_plan_cadastral_EMS_vues#CONSULT_plan_cadastral_EMS_vues"
         },
         {
           "title": "Cadastre allemand 1889",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/histo_cadastre_allemand#histo_cadastre_allemand"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_cadastre_allemand#histo_cadastre_allemand"
         },
         {
           "title": "Cadastre napoléonien 1840",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/histo_cadastre_napoleonien#histo_cadastre_napoleonien"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_cadastre_napoleonien#histo_cadastre_napoleonien"
         },
         {
           "title": "Cartes historiques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/histo_fonds_historiques#histo_fonds_historiques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_fonds_historiques#histo_fonds_historiques"
         },
         {
           "title": "Plan relief de 1725",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/histo_plan_relief_1725#histo_plan_relief_1725"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/histo_plan_relief_1725#histo_plan_relief_1725"
         },
         {
           "title": "Logements sociaux",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/habit_logements_sociaux#habit_logements_sociaux"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/habit_logements_sociaux#habit_logements_sociaux"
         },
         {
           "title": "Limites des découpages électoraux",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/limit_election_bv#limit_election_bv"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_election_bv#limit_election_bv"
         },
         {
           "title": "Limites administratives diverses",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/limit_limites_administratives#limit_limites_administratives"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_limites_administratives#limit_limites_administratives"
         },
         {
           "title": "Géographies prioritaires 2015-2023",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/limit_geographie_prioritaire_15_23#limit_geographie_prioritaire_15_23"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_geographie_prioritaire_15_23#limit_geographie_prioritaire_15_23"
         },
         {
           "title": "Géographies prioritaires 2024-2030",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/limit_geographie_prioritaire_24_30#limit_geographie_prioritaire_24_30"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/limit_geographie_prioritaire_24_30#limit_geographie_prioritaire_24_30"
         },
         {
           "title": "Transports en commun",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_transport_en_commun#mobil_transport_en_commun"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_transport_en_commun#mobil_transport_en_commun"
         },
         {
           "title": "Stationnement des véhicules",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_stationnement_vehicules#mobil_stationnement_vehicules"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_stationnement_vehicules#mobil_stationnement_vehicules"
         },
         {
           "title": "Hiérarchisation des voies",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_hierarchisation_voies#mobil_hierarchisation_voies"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_hierarchisation_voies#mobil_hierarchisation_voies"
         },
         {
           "title": "Zones de stationnement payant",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_stationnement_zones#mobil_stationnement_zones"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_stationnement_zones#mobil_stationnement_zones"
         },
         {
           "title": "Aménagements cyclables réalisés et en projet",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_amgt_cyclable#mobil_amgt_cyclable"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_amgt_cyclable#mobil_amgt_cyclable"
         },
         {
           "title": "Mesure du trafic",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/mobil_trafic#mobil_trafic"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/mobil_trafic#mobil_trafic"
         },
         {
           "title": "Trames verte et bleue",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_trames_verte_bleue#natur_trames_verte_bleue"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_trames_verte_bleue#natur_trames_verte_bleue"
         },
         {
           "title": "Tissu naturel urbain",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_tissu_naturel_urbain#natur_tissu_naturel_urbain"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_tissu_naturel_urbain#natur_tissu_naturel_urbain"
         },
         {
           "title": "Plan canopée",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_plan_canopee#natur_plan_canopee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_plan_canopee#natur_plan_canopee"
         },
         {
           "title": "Trame nocturne",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_trame_nocturne#natur_trame_nocturne"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_trame_nocturne#natur_trame_nocturne"
         },
         {
           "title": "Zones humides",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_zones_humides#natur_zones_humides"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_zones_humides#natur_zones_humides"
         },
         {
           "title": "Natura 2000",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_natura2000#natur_natura2000"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_natura2000#natur_natura2000"
         },
         {
           "title": "Grand hamster d'Alsace",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_grand_hamster#natur_grand_hamster"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_grand_hamster#natur_grand_hamster"
         },
         {
           "title": "Nichoirs",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_nichoir#natur_nichoir"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_nichoir#natur_nichoir"
         },
         {
           "title": "Patrimoine arboré",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_patri_arbore#natur_patri_arbore"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_patri_arbore#natur_patri_arbore"
         },
         {
           "title": "Arbres - Etat sanitaire",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_arbre_etat_sanitaire#natur_arbre_etat_sanitaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_arbre_etat_sanitaire#natur_arbre_etat_sanitaire"
         },
         {
           "title": "Arbres - Plantation",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_arbre_plantation#natur_arbre_plantation"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_arbre_plantation#natur_arbre_plantation"
         },
         {
           "title": "Arbres - Nettoyage entreprises",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_nett_entreprise#natur_nett_entreprise"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_nett_entreprise#natur_nett_entreprise"
         },
         {
           "title": "Espaces verts - Fleurissement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_fleurissement#natur_fleurissement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_fleurissement#natur_fleurissement"
         },
         {
           "title": "Espaces verts - Jardins familiaux",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_jardin_familial#natur_jardin_familial"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_jardin_familial#natur_jardin_familial"
         },
         {
           "title": "Gestion différenciée des espaces verts",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_gestion_differenciee#natur_gestion_differenciee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_gestion_differenciee#natur_gestion_differenciee"
         },
         {
           "title": "Gestion des espaces verts",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_gestion_ev#natur_gestion_ev"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_gestion_ev#natur_gestion_ev"
         },
         {
           "title": "OCS EMS 2012 Végétation à grande échelle",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_ocs_vegetation_ems_2012#natur_ocs_vegetation_ems_2012"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_ocs_vegetation_ems_2012#natur_ocs_vegetation_ems_2012"
         },
         {
           "title": "OCS EMS 2017 Végétation à grande échelle",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_ocs_vegetation_ems_2017#natur_ocs_vegetation_ems_2017"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_ocs_vegetation_ems_2017#natur_ocs_vegetation_ems_2017"
         },
         {
           "title": "Zones de fauchage des abords de pistes cyclables",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_fauchage_pistes#natur_fauchage_pistes"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_fauchage_pistes#natur_fauchage_pistes"
         },
         {
           "title": "Expertise de prestations écologiques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_presta_ecologique#natur_presta_ecologique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_presta_ecologique#natur_presta_ecologique"
         },
         {
           "title": "Secteurs Patrimoine Arboré (SEVN)",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_secteur_gpa#natur_secteur_gpa"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_secteur_gpa#natur_secteur_gpa"
         },
         {
           "title": "Secteurs Espaces Verts Urbains (SEVN)",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/natur_secteur_evu#natur_secteur_evu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/natur_secteur_evu#natur_secteur_evu"
         },
         {
           "title": "Terrasses (bars et restaurants) ",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/occup_terrasses#occup_terrasses"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/occup_terrasses#occup_terrasses"
         },
         {
           "title": "PAV et composteurs publics",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_points_apport_volontaire#propr_points_apport_volontaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_points_apport_volontaire#propr_points_apport_volontaire"
         },
         {
           "title": "PAV privés",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_points_apport_volontaire_restreint#propr_points_apport_volontaire_restreint"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_points_apport_volontaire_restreint#propr_points_apport_volontaire_restreint"
         },
         {
           "title": "Thématique canine",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_thematique_canine#propr_thematique_canine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_thematique_canine#propr_thematique_canine"
         },
         {
           "title": "Toilettes publiques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_toilettes_publiques#propr_toilettes_publiques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_toilettes_publiques#propr_toilettes_publiques"
         },
         {
           "title": "Corbeilles de propreté",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_corbeille#propr_corbeille"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_corbeille#propr_corbeille"
         },
         {
           "title": "Collecte / Tournée",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_collecte_dechet_tournee#propr_collecte_dechet_tournee"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_tournee#propr_collecte_dechet_tournee"
         },
         {
           "title": "Collecte / Jour",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_collecte_dechet_jour#propr_collecte_dechet_jour"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_jour#propr_collecte_dechet_jour"
         },
         {
           "title": "Collecte / Resp. secteur",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/propr_collecte_dechet_responsable#propr_collecte_dechet_responsable"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/propr_collecte_dechet_responsable#propr_collecte_dechet_responsable"
         },
         {
           "title": "Fond de carte gris",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_fond_gris#refer_fond_gris"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_fond_gris#refer_fond_gris"
         },
         {
           "title": "Fond de carte couleur",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_fond_couleur#refer_fond_couleur"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_fond_couleur#refer_fond_couleur"
         },
         {
           "title": "Vues immersives 360",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_image360#refer_image360"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_image360#refer_image360"
         },
         {
           "title": "Filaire de circulation",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_filaire#refer_filaire"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_filaire#refer_filaire"
         },
         {
           "title": "Ortho-photographie nocturne",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_ortho_nocturne#refer_ortho_nocturne"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_ortho_nocturne#refer_ortho_nocturne"
         },
         {
           "title": "Fond OpenStreetMap",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_osm_xyz#refer_osm_xyz"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_osm_xyz#refer_osm_xyz"
         },
         {
           "title": "Images satellites",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_satellite#refer_satellite"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_satellite#refer_satellite"
         },
         {
           "title": "Ortho photographie 2022",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_ortho2022#refer_ortho2022"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_ortho2022#refer_ortho2022"
         },
         {
           "title": "Autres images aériennes",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_images_aeriennes#refer_images_aeriennes"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_images_aeriennes#refer_images_aeriennes"
         },
         {
           "title": "Points de canevas plani et altimétriques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_point_canevas#refer_point_canevas"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_point_canevas#refer_point_canevas"
         },
         {
           "title": "Données de gestion de la BD RTGE",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_gestion_BD_RTGE#refer_gestion_BD_RTGE"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_gestion_BD_RTGE#refer_gestion_BD_RTGE"
         },
         {
           "title": "Données altimétriques (LIDAR 2025)",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/refer_donnees_lidar#refer_donnees_lidar"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/refer_donnees_lidar#refer_donnees_lidar"
         },
         {
           "title": "Réseau de chaleur",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_reseau_chaleur#resea_reseau_chaleur"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_reseau_chaleur#resea_reseau_chaleur"
         },
         {
           "title": "Réseau d'eau potable",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_aep_patrimoine#resea_aep_patrimoine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_aep_patrimoine#resea_aep_patrimoine"
         },
         {
           "title": "Réseau d'assainissement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_ass_patrimoine#resea_ass_patrimoine"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_ass_patrimoine#resea_ass_patrimoine"
         },
         {
           "title": "Réseaux électriques et gaz - ORE",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_reseaux_ore#resea_reseaux_ore"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_reseaux_ore#resea_reseaux_ore"
         },
         {
           "title": "Patrimoine de l'éclairage public",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_eclairage_public#resea_eclairage_public"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_eclairage_public#resea_eclairage_public"
         },
         {
           "title": "Réseau Sirac",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/resea_sirac#resea_sirac"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/resea_sirac#resea_sirac"
         },
         {
           "title": "Cavités souterraines",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_cavites#secur_cavites"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_cavites#secur_cavites"
         },
         {
           "title": "Plan de prévention des risques inondation",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_ppri#secur_ppri"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_ppri#secur_ppri"
         },
         {
           "title": "Hébergement de secours",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_hebergement_secours#secur_hebergement_secours"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_hebergement_secours#secur_hebergement_secours"
         },
         {
           "title": "ERP sensibles",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_erp_sensible#secur_erp_sensible"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_erp_sensible#secur_erp_sensible"
         },
         {
           "title": "Recensement des sites et sols pollués",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_sites_et_sols_pollues#secur_sites_et_sols_pollues"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_sites_et_sols_pollues#secur_sites_et_sols_pollues"
         },
         {
           "title": "Sirènes d'alerte",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_sirene_alerte#secur_sirene_alerte"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_sirene_alerte#secur_sirene_alerte"
         },
         {
           "title": "Plan iode",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_plan_iode#secur_plan_iode"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_plan_iode#secur_plan_iode"
         },
         {
           "title": "Plan variole",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_plan_variole#secur_plan_variole"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_plan_variole#secur_plan_variole"
         },
         {
           "title": "Plan d'exposition au bruit et Plan de gêne sonore",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_peb_pgs#secur_peb_pgs"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_peb_pgs#secur_peb_pgs"
         },
         {
           "title": "Risques technologiques - PPRT et PAC",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_risques_techno#secur_risques_techno"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_risques_techno#secur_risques_techno"
         },
         {
           "title": "Niveaux de nappe phréatique",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_niveau_nappe#secur_niveau_nappe"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_niveau_nappe#secur_niveau_nappe"
         },
         {
           "title": "Qualité de l'air",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_qualite_air#secur_qualite_air"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_qualite_air#secur_qualite_air"
         },
         {
           "title": "Drone : réglementation et zones de levé",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_autorisations_drones#secur_autorisations_drones"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_autorisations_drones#secur_autorisations_drones"
         },
         {
           "title": "Système d'endiguement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/secur_syst_digue#secur_syst_digue"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/secur_syst_digue#secur_syst_digue"
         },
         {
           "title": "Etablissements et secteurs scolaires",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_etabts_et_secteurs_scolaires#socie_etabts_et_secteurs_scolaires"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_etabts_et_secteurs_scolaires#socie_etabts_et_secteurs_scolaires"
         },
         {
           "title": "IRIS - EMS et ALSACE",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_iris#socie_iris"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_iris#socie_iris"
         },
         {
           "title": "Points d'eau",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_point_deau#socie_point_deau"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_point_deau#socie_point_deau"
         },
         {
           "title": "Territoires DSSJ",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_territoire_DSSJ#socie_territoire_DSSJ"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_territoire_DSSJ#socie_territoire_DSSJ"
         },
         {
           "title": "Equipements - Commerces - Services",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_bd_ecoms#socie_bd_ecoms"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_bd_ecoms#socie_bd_ecoms"
         },
         {
           "title": "Socle des indicateurs socio-démographiques 2021",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/socie_ind_socio_demo#socie_ind_socio_demo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/socie_ind_socio_demo#socie_ind_socio_demo"
         },
         {
           "title": "Vitaboucle et aires d'agrès",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_vitaboucle#loisi_vitaboucle"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_vitaboucle#loisi_vitaboucle"
         },
         {
           "title": "Médiathèques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_mediatheques#loisi_mediatheques"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_mediatheques#loisi_mediatheques"
         },
         {
           "title": "Restaurants agréés Ville et Eurométropole",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_restaurant_agree#loisi_restaurant_agree"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_restaurant_agree#loisi_restaurant_agree"
         },
         {
           "title": "Aire de Jeux Sports et Fitness",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_aires_jeux_sportives_equipements#loisi_aires_jeux_sportives_equipements"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_aires_jeux_sportives_equipements#loisi_aires_jeux_sportives_equipements"
         },
         {
           "title": "Equipements sportifs",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_activites_sportives#loisi_activites_sportives"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_activites_sportives#loisi_activites_sportives"
         },
         {
           "title": "Patrimoine culturel des quartiers de Strasbourg",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/loisi_patrimoine_quartier#loisi_patrimoine_quartier"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/loisi_patrimoine_quartier#loisi_patrimoine_quartier"
         },
         {
           "title": "PLU - Règlement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_reglement#urban_plu_reglement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_reglement#urban_plu_reglement"
         },
         {
           "title": "Annexe PLU - Droit de préemption urbain",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_dpu#urban_plu_annexe_dpu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_dpu#urban_plu_annexe_dpu"
         },
         {
           "title": "Annexe PLU - Orientations d'aménagement de de programmation",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_oap#urban_plu_annexe_oap"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_oap#urban_plu_annexe_oap"
         },
         {
           "title": "Annexe PLU - Zones de stationnement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_stationnement#urban_plu_annexe_stationnement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_stationnement#urban_plu_annexe_stationnement"
         },
         {
           "title": "Annexe PLU - Plan de vigilance",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_vigilance#urban_plu_annexe_vigilance"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_vigilance#urban_plu_annexe_vigilance"
         },
         {
           "title": "Annexe PLU - Ceinture verte",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_ceinture_verte#urban_plu_annexe_ceinture_verte"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_ceinture_verte#urban_plu_annexe_ceinture_verte"
         },
         {
           "title": "Annexe PLU - Périmètres des taxes d'aménagement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_annexe_ta#urban_plu_annexe_ta"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_annexe_ta#urban_plu_annexe_ta"
         },
         {
           "title": "Contours historiques de la Ceinture verte",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_ceinture_verte_historique#urban_ceinture_verte_historique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_ceinture_verte_historique#urban_ceinture_verte_historique"
         },
         {
           "title": "Monuments historiques",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/patri_monument_historique#patri_monument_historique"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/patri_monument_historique#patri_monument_historique"
         },
         {
           "title": "Projets urbains",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_projet_urbain#urban_projet_urbain"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_projet_urbain#urban_projet_urbain"
         },
         {
           "title": "Règlement local de publicité intercommunal",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_plu_rlpi#urban_plu_rlpi"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_plu_rlpi#urban_plu_rlpi"
         },
         {
           "title": "Zones d'activités existantes",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_zae#urban_zae"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_zae#urban_zae"
         },
         {
           "title": "Archéologie préventive",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_archeologie_preventive#urban_archeologie_preventive"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_archeologie_preventive#urban_archeologie_preventive"
         },
         {
           "title": "PSMV - Règlement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_psmv_reglement#urban_psmv_reglement"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_psmv_reglement#urban_psmv_reglement"
         },
         {
           "title": "Permis de construire produisant plus de 6 logements",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_pc_6_12_logements#urban_pc_6_12_logements"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_pc_6_12_logements#urban_pc_6_12_logements"
         },
         {
           "title": "Végétation de plus de 20m de haut dans la ceinture verte",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_cv_veget_20m#urban_cv_veget_20m"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_cv_veget_20m#urban_cv_veget_20m"
         },
         {
           "title": "Edifices de la Neustadt",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_edifices_neustadt#urban_edifices_neustadt"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_edifices_neustadt#urban_edifices_neustadt"
         },
         {
           "title": "Potentiel de surélévation du bâti",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_bati_surelevation#urban_bati_surelevation"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_bati_surelevation#urban_bati_surelevation"
         },
         {
           "title": "Servitudes d'utilité publique",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/urban_sup#urban_sup"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/urban_sup#urban_sup"
         },
         {
           "title": "Point de repère routier",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_point_repere#voiri_point_repere"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_point_repere#voiri_point_repere"
         },
         {
           "title": "État des chaussées, voies cyclables, et dépendances",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_etat#voiri_etat"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_etat#voiri_etat"
         },
         {
           "title": "Anomalies sur l'espace public pour l'accessibilité aux PMR",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_anomalies_acces_pmr#voiri_anomalies_acces_pmr"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_anomalies_acces_pmr#voiri_anomalies_acces_pmr"
         },
         {
           "title": "Programmation opérations sur l'espace public",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_programmation_esp_pub#voiri_programmation_esp_pub"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_programmation_esp_pub#voiri_programmation_esp_pub"
         },
         {
           "title": "Voirie : Signalisation horizontale",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_signal_horizontale#voiri_signal_horizontale"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_signal_horizontale#voiri_signal_horizontale"
         },
         {
           "title": "Voirie : Signalisation verticale",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_signal_verticale#voiri_signal_verticale"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_signal_verticale#voiri_signal_verticale"
         },
         {
           "title": "Gestionnaires Voies publiques - En et hors agglo",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_gestion#voiri_gestion"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_gestion#voiri_gestion"
         },
         {
           "title": "Stationnement vélo",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_station_velo#voiri_station_velo"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_station_velo#voiri_station_velo"
         },
         {
           "title": "[Voies Publiques] - Opération d'aménagement",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_operation_esp_pub#voiri_operation_esp_pub"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_operation_esp_pub#voiri_operation_esp_pub"
         },
         {
           "title": "Routes à grande circulation",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_rte_grande_circu#voiri_rte_grande_circu"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_rte_grande_circu#voiri_rte_grande_circu"
         },
         {
           "title": "Localisation des ouvrages d'art",
-          "resource": "wms:https://wpsiglw.cus.fr/ows/voiri_ouvrages_art#voiri_ouvrages_art"
+          "resource": "wms:https://wpsiglw.cus.fr/qgis/voiri_ouvrages_art#voiri_ouvrages_art"
         }
       ]
     }
