@@ -21,7 +21,7 @@
         },
         {
           "title": "ADMINEXPRESS COG ; Edition : 2017-01-01",
-          "resource": "wmts:https://data.geopf.fr/wmts#ADMINEXPRESS-COG.2017"
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS#ADMINEXPRESS-COG.2017"
         },
         {
           "title": "ADMINEXPRESS COG ; Edition : 2018-01-01",
