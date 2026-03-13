@@ -4,10 +4,6 @@
       "title": "Catalogue EMS",
       "sublayers": [
         {
-          "title": "défaut",
-          "resource": "wms:https://whsiglw.cus.fr/qgis/defaut#defaut"
-        },
-        {
           "title": "Signalement d'anomalies sur les données géographiques",
           "resource": "wms:https://whsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo"
         },
@@ -560,6 +556,36 @@
           "resource": "wms:https://whsiglw.cus.fr/qgis/voiri_ouvrages_art#voiri_ouvrages_art"
         }
       ]
+    },
+    {
+      "title": "Catalogue IGN",
+      "sublayers": [
+        {
+          "title": "IGN - Orthopotographie 20 cm",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#HR.ORTHOIMAGERY.ORTHOPHOTOS"
+        },
+        {
+          "title": "IGN - Orthopotographie 50 cm",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#ORTHOIMAGERY.ORTHOPHOTOS.BDORTHO"
+        },
+        {
+          "title": "IGN - Photographies aériennes",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#ORTHOIMAGERY.ORTHOPHOTOS"
+        },
+        {
+          "title": "IGN - Photographies aériennes historiques 1950-1965",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#ORTHOIMAGERY.ORTHOPHOTOS.1950-1965"
+        },
+        {
+          "title": "IGN - Photographies aériennes historiques 1965-1980",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#ORTHOIMAGERY.ORTHOPHOTOS.1965-1980"
+        },
+        {
+          "title": "IGN - Photographies aériennes historiques 1980-1995",
+          "resource": "wmts:https://data.geopf.fr/wmts?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities#ORTHOIMAGERY.ORTHOPHOTOS.1980-1995"
+        }
+      ]
+
     }
   ]
 }
