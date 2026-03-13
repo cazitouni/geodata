@@ -586,15 +586,6 @@
         }
       ]
 
-    },
-    {
-      "title": "Catalogue DataGrandEst",
-      "sublayers": [
-        {
-          "title": "DataGrandEst - Plan cadastral GrandEst",
-          "resource": "wms:https://datagrandest.fr/geoserver/ows?service=WMS&version=1.3.0&request=GetCapabilities#plan_cadastral_grandest"
-        }
-      ]
     }
       ]
     
