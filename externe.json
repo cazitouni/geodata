@@ -584,7 +584,7 @@
       "sublayers": [
         {
           "title": "CD67 SIR Restrictions PL",
-          "resource": "wfs:https://datagrandest.fr/geoserver/ows?service=WFS&version=1.1.0#cd67%3ACD67_SIR_RESTRICTIONS_PL"
+          "resource": "wfs:https://www.datagrandest.fr/geoserver/wfs#cd67:CD67_SIR_RESTRICTIONS_PL"
         }
       ]
 
