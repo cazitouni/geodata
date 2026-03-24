@@ -585,6 +585,10 @@
         {
           "title": "CD67 SIR Restrictions PL",
           "resource": "wms:https://www.datagrandest.fr/geoserver/ows?service=WMS&version=1.3.0&request=GetCapabilities#cd67:CD67_SIR_RESTRICTIONS_PL"
+        },
+        {
+          "title": "Ortho RVB Bas-Rhin 67 2024",
+          "resource": "wms:https://www.datagrandest.fr/geoserver/ows?service=WMS&version=1.3.0&request=GetCapabilities#geograndest:ortho-rvb-67-2024"
         }
       ]
 
