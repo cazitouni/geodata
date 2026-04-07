@@ -10,6 +10,7 @@
         {
           "title": "Test socle metabase",
           "resource": "wms:https://whsiglw.cus.fr/qgis/test_socle_mb_socie_iris#test_socle_mb_socie_iris"
+          "link": "https://perdu.com"
         },
         {
           "title": "Test fond PLU en WMS",
