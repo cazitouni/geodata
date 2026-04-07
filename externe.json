@@ -10,7 +10,13 @@
         {
           "title": "Test socle metabase",
           "resource": "wms:https://whsiglw.cus.fr/qgis/test_socle_mb_socie_iris#test_socle_mb_socie_iris",
-          "link": "https://perdu.com"
+          "link": "https://perdu.com",
+          "sublayers": [
+            {
+              "title": "Signalement d'anomalies sur les données géographiques",
+              "resource": "wms:https://whsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo"
+            }
+          ]
         },
         {
           "title": "Test fond PLU en WMS",
