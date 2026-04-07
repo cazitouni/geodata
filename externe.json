@@ -37,7 +37,8 @@
         },
         {
           "title": "Les locaux dans les écoles",
-          "resource": "wms:https://whsiglw.cus.fr/qgis/patri_locaux_ecoles#patri_locaux_ecoles"
+          "resource": "wms:https://whsiglw.cus.fr/qgis/patri_locaux_ecoles#patri_locaux_ecoles",
+          "link": "https://catalog.whsiglw.cus.fr/geonetwork/srv/fre/catalog.search#/metadata/fr_strasbourg.eu_2018_10_08_12"
         },
         {
           "title": "Panneaux d'information totem",
