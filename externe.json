@@ -5,7 +5,8 @@
       "sublayers": [
         {
           "title": "Signalement d'anomalies sur les données géographiques",
-          "resource": "wms:https://whsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo"
+          "resource": "wms:https://whsiglw.cus.fr/qgis/alert_signalement_geo#alert_signalement_geo",
+          "link" : "https://catalog.whsiglw.cus.fr/geonetwork/srv/fre/catalog.search#/metadata/fr_strasbourg.eu_2015_09_02_6"
         },
         {
           "title": "Test socle metabase",
